@@ -60,9 +60,6 @@ with st.form(key="search_form"):
 
 if submit_button and search_query:
     # Get embedding from OpenAI
-    response = openai.Embedding.create(
-        input=search_query, model="text-embedding-ada-002"
-    )
     embedding = get_openai_embedding(search_query)
 
 

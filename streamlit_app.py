@@ -43,7 +43,7 @@ with open("treatments.json", "r") as file:
 
 
 # Streamlit UI
-st.set_page_config(page_title="Treatment Search Engine", page_icon=":mag:")
+st.set_page_config(page_title="Treatment Search Engine", page_icon=":mag:", layout="wide")
 
 # Header with logo and title
 col1, col2 = st.columns([1, 5])

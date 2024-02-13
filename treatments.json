@@ -1,0 +1,6770 @@
+[
+  {
+    "Id": 94,
+    "ScenarioID": 3,
+    "Title": "Gantry systems can be designed to maintain atriums and skylights.",
+    "Details": "",
+    "Stage": "Detail Design",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 95,
+    "ScenarioID": 3,
+    "Title": "Provide adequate railing or other means of fall protection along exposed perimeter of the building",
+    "Details": "",
+    "Stage": "Detail Design",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 97,
+    "ScenarioID": 3,
+    "Title": "Provide safe access directly to all roof levels or from level to level (protected ladder, ships ladder, stairs).",
+    "Details": "",
+    "Stage": "Detail Design",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 101,
+    "ScenarioID": 3,
+    "Title": "Provide details of areas of exposed edge which may remain after design review, and highlight temporary changes which may leave edges exposed even for short duration",
+    "Details": "",
+    "Stage": "Detail Design",
+    "Type": "Inform"
+  },
+  {
+    "Id": 103,
+    "ScenarioID": 3,
+    "Title": "Guard  every skylight opening and hole by skylight screen or a fixed standard railing on all exposed sides.",
+    "Details": "",
+    "Stage": "Pre construction",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 104,
+    "ScenarioID": 3,
+    "Title": "Install permanent anchorage points on roof slabs to provide permanent anchor points for fall arrest systems.",
+    "Details": "",
+    "Stage": "Pre construction",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 88,
+    "ScenarioID": 3,
+    "Title": "Where necessary to locate equipment within 3m from edge of roof, provide railings or means of securing fall protection devices with appropriate signage.",
+    "Details": "",
+    "Stage": "Preliminary Design",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 90,
+    "ScenarioID": 3,
+    "Title": "Integrate upstands at edge details to form permanent guard rail/barrier",
+    "Details": "",
+    "Stage": "Preliminary Design",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 93,
+    "ScenarioID": 3,
+    "Title": "Structural engineer liaises with architects during design phase to assist in design of handrail and guard elements.",
+    "Details": "",
+    "Stage": "Preliminary Design",
+    "Type": "Inform"
+  },
+  {
+    "Id": 107,
+    "ScenarioID": 3,
+    "Title": "Once roof anchors are  installed ,it is generally the responsibility of the building owner to inspect and maintain roof anchors to ensure their continued and reliable performance.",
+    "Details": "",
+    "Stage": "Site work, Temp Works, Change control",
+    "Type": "Inform"
+  },
+  {
+    "Id": 108,
+    "ScenarioID": 3,
+    "Title": "Contractor should identify all remaining opening/edges and check  the selected permanent safety measures",
+    "Details": "",
+    "Stage": "Site work, Temp Works, Change control",
+    "Type": "Inform"
+  },
+  {
+    "Id": 733,
+    "ScenarioID": 3,
+    "Title": "Design minimum 1.1. m height parapets or railings at all roof edges.",
+    "Details": "",
+    "Stage": "Preliminary Design",
+    "Type": "Eliminate"
+  },
+  {
+    "Id": 734,
+    "ScenarioID": 3,
+    "Title": "Avoid designing equipment or elevated features on the roof.",
+    "Details": "",
+    "Stage": "Preliminary Design",
+    "Type": "Eliminate"
+  },
+  {
+    "Id": 735,
+    "ScenarioID": 3,
+    "Title": "Specify class 2 skylights to avoid fragile materials.",
+    "Details": "",
+    "Stage": "Preliminary Design",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 736,
+    "ScenarioID": 3,
+    "Title": "Design permanent anchor points on slabs for fall arrest systems.",
+    "Details": "",
+    "Stage": "Detail Design",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 737,
+    "ScenarioID": 3,
+    "Title": "Provide collective preventive measures",
+    "Details": "",
+    "Stage": "Detail Design",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 738,
+    "ScenarioID": 3,
+    "Title": "If height parapets or railings at all roof edges of min 1.1m are not designed, alternatively, provide safety line anchor points.",
+    "Details": "",
+    "Stage": "Detail Design",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 739,
+    "ScenarioID": 3,
+    "Title": "Install a safe working platform with edge protection, to prevent falling from height.",
+    "Details": "",
+    "Stage": "Site work, Temp Works, Change control",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 117,
+    "ScenarioID": 4,
+    "Title": "Avoid hanging connections—design to bear on columns instead.",
+    "Details": "",
+    "Stage": "Detail Design",
+    "Type": "Eliminate"
+  },
+  {
+    "Id": 118,
+    "ScenarioID": 4,
+    "Title": "Avoid connections or protrusions above floor framing members",
+    "Details": "",
+    "Stage": "Detail Design",
+    "Type": "Eliminate"
+  },
+  {
+    "Id": 496,
+    "ScenarioID": 4,
+    "Title": "Specify safety seats for beam connections, markings for orientation, and secure connections and anchoring systems.",
+    "Details": "",
+    "Stage": "Detail Design",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 500,
+    "ScenarioID": 4,
+    "Title": "Design adequate anchorage / attachment points for collective fall arrest systems.",
+    "Details": "",
+    "Stage": "Detail Design",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 501,
+    "ScenarioID": 4,
+    "Title": "Review sequence of construction and ensure coordinated designs.",
+    "Details": "",
+    "Stage": "Detail Design",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 120,
+    "ScenarioID": 4,
+    "Title": "Assess risks of falling in selected methods of work, use hierarchy of controls to select best collective measures",
+    "Details": "",
+    "Stage": "Pre construction",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 121,
+    "ScenarioID": 4,
+    "Title": "Use safety nets or soft landing bags to mitigate consequences of falls between joists",
+    "Details": "",
+    "Stage": "Pre construction",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 122,
+    "ScenarioID": 4,
+    "Title": "Design adequate anchorage points for fall restraint systems",
+    "Details": "",
+    "Stage": "Pre construction",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 126,
+    "ScenarioID": 4,
+    "Title": "Provide any necessary information on inspecting and maintaining safety measures",
+    "Details": "",
+    "Stage": "Pre construction",
+    "Type": "Inform"
+  },
+  {
+    "Id": 503,
+    "ScenarioID": 4,
+    "Title": "If collective measures cannot be employed, and risks remain, use harness systems to prevent falls",
+    "Details": "",
+    "Stage": "Pre construction",
+    "Type": "Inform"
+  },
+  {
+    "Id": 110,
+    "ScenarioID": 4,
+    "Title": "Design components to facilitate prefabrication at ground level and erection as complete assemblies.",
+    "Details": "",
+    "Stage": "Preliminary Design",
+    "Type": "Eliminate"
+  },
+  {
+    "Id": 111,
+    "ScenarioID": 4,
+    "Title": "Designers should consider the sequences of construction between the temporary state and the finished state.",
+    "Details": "",
+    "Stage": "Preliminary Design",
+    "Type": "Eliminate"
+  },
+  {
+    "Id": 113,
+    "ScenarioID": 4,
+    "Title": "Minimize number of offsets in building plan and make offsets a consistent size and as large as possible to simplify work area for construction workers.",
+    "Details": "",
+    "Stage": "Preliminary Design",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 115,
+    "ScenarioID": 4,
+    "Title": "Ensure swl floor slabs is adequate to support MEWPs  for fixing at height.",
+    "Details": "",
+    "Stage": "Preliminary Design",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 497,
+    "ScenarioID": 4,
+    "Title": "Where possible, specify shop welded connections instead of bolts or field welds to avoid dangerous or awkward positions for the welder or connector.",
+    "Details": "",
+    "Stage": "Preliminary Design",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 498,
+    "ScenarioID": 4,
+    "Title": "Design if possible temporary edge protection to external faces of floor.  To be installed sequentially with floor installation.",
+    "Details": "",
+    "Stage": "Preliminary Design",
+    "Type": "Eliminate"
+  },
+  {
+    "Id": 499,
+    "ScenarioID": 4,
+    "Title": "Review installation method and coordinate with any temporary works design requirements.",
+    "Details": "",
+    "Stage": "Preliminary Design",
+    "Type": "Inform"
+  },
+  {
+    "Id": 504,
+    "ScenarioID": 4,
+    "Title": "Establish a clear and consistent beam marking system to help workers orient themselves in relation to hazards in certain sections of the structure and increase erection speed, reducing the amaount of time spent working at height.",
+    "Details": "",
+    "Stage": "Site work, Temp Works, Change control",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 505,
+    "ScenarioID": 4,
+    "Title": "Contractor should identify all remaining beam spacing and check  the selected permanent safety measures",
+    "Details": "",
+    "Stage": "Site work, Temp Works, Change control",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 506,
+    "ScenarioID": 4,
+    "Title": "Establish direct notification by workers of any deviation from work method",
+    "Details": "",
+    "Stage": "Site work, Temp Works, Change control",
+    "Type": "Inform"
+  },
+  {
+    "Id": 741,
+    "ScenarioID": 4,
+    "Title": "Designers should  sequence construction to ensure no spaces big enough to fall through in temporary conditions.",
+    "Details": "",
+    "Stage": "Preliminary Design",
+    "Type": "Eliminate"
+  },
+  {
+    "Id": 783,
+    "ScenarioID": 4,
+    "Title": "Designers should  sequence construction to ensure no spaces big enough to fall through in temporary conditions",
+    "Details": "",
+    "Stage": "Preliminary Design",
+    "Type": "Eliminate"
+  },
+  {
+    "Id": 137,
+    "ScenarioID": 5,
+    "Title": "Avoid stair landings constructed separate from the stairs.",
+    "Details": "",
+    "Stage": "Detail Design",
+    "Type": "Eliminate"
+  },
+  {
+    "Id": 138,
+    "ScenarioID": 5,
+    "Title": "Provide engineering documents and schedule permanent stairways to be constructed as early as possible in construction phase",
+    "Details": "",
+    "Stage": "Detail Design",
+    "Type": "Eliminate"
+  },
+  {
+    "Id": 139,
+    "ScenarioID": 5,
+    "Title": "Maintain a uniform stair slope throughout the project.",
+    "Details": "",
+    "Stage": "Detail Design",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 142,
+    "ScenarioID": 5,
+    "Title": "An alternative to guard rails or a barrier is to cover the opening or material. Any covering should be strong enough to support any loads likely to be placed on it (including the weight of a person); and  fixed in position to prevent accidental dislodgement.",
+    "Details": "",
+    "Stage": "Detail Design",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 514,
+    "ScenarioID": 5,
+    "Title": "Provide railing on all exposed sides (except at entrance to stairway)",
+    "Details": "",
+    "Stage": "Detail Design",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 516,
+    "ScenarioID": 5,
+    "Title": "The spacing between vertical stair rails should be less than 100 mm, in accordance with Building Regulations Approved Document K.",
+    "Details": "",
+    "Stage": "Detail Design",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 517,
+    "ScenarioID": 5,
+    "Title": "Specify staircases to have sockets casted in the concrete or welded in steel sections on open sides/edges to fix guardrails during construction.",
+    "Details": "",
+    "Stage": "Detail Design",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 518,
+    "ScenarioID": 5,
+    "Title": "Identify work activities which will require stairwell openings to be exposed, and plan adequate safety measures",
+    "Details": "",
+    "Stage": "Detail Design",
+    "Type": "Inform"
+  },
+  {
+    "Id": 148,
+    "ScenarioID": 5,
+    "Title": "Design and schedule handrails, guardrails, and stair rails to be erected as part of the structural steel erection.",
+    "Details": "",
+    "Stage": "Pre construction",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 149,
+    "ScenarioID": 5,
+    "Title": "Fix guard rails as early as possible to protect openings in slabs",
+    "Details": "",
+    "Stage": "Pre construction",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 152,
+    "ScenarioID": 5,
+    "Title": "Supervise inspections of all openings in slab on a regular basis  to ensure safety measures are maintained",
+    "Details": "",
+    "Stage": "Pre construction",
+    "Type": "Inform"
+  },
+  {
+    "Id": 511,
+    "ScenarioID": 5,
+    "Title": "Locate exterior stairs and ramps on the sheltered side of the structure (parallel to the building) to protect them from rain, snow, and ice.",
+    "Details": "",
+    "Stage": "Pre construction",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 519,
+    "ScenarioID": 5,
+    "Title": "Design and schedule temporary safety measures for stair openings as part of design",
+    "Details": "",
+    "Stage": "Pre construction",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 520,
+    "ScenarioID": 5,
+    "Title": "If opening cannot be avoided, provide crash decks,  nets or soft landing systems positioned under any exposed openings",
+    "Details": "",
+    "Stage": "Pre construction",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 521,
+    "ScenarioID": 5,
+    "Title": "Specify tamper proof fixings to prevent unauthorised removal of  coverings",
+    "Details": "",
+    "Stage": "Pre construction",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 524,
+    "ScenarioID": 5,
+    "Title": "Mark covers  with warnings to prevent standing on the covering",
+    "Details": "",
+    "Stage": "Pre construction",
+    "Type": "Inform"
+  },
+  {
+    "Id": 131,
+    "ScenarioID": 5,
+    "Title": "Consider using prefabricated or ground-assembled stairways which can be erected as one assembly.",
+    "Details": "",
+    "Stage": "Preliminary Design",
+    "Type": "Eliminate"
+  },
+  {
+    "Id": 132,
+    "ScenarioID": 5,
+    "Title": "If in-situ are unavoidable , consider designing stairs that can be built using stair-masters, which are with permanent framework and permanent rails pre-attached.",
+    "Details": "",
+    "Stage": "Preliminary Design",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 135,
+    "ScenarioID": 5,
+    "Title": "Allow time and resources during design to identify risks associated with stairwells and evaluate alternative treatments",
+    "Details": "",
+    "Stage": "Preliminary Design",
+    "Type": "Inform"
+  },
+  {
+    "Id": 507,
+    "ScenarioID": 5,
+    "Title": "Avoid designing formwork in-situ stairs.",
+    "Details": "",
+    "Stage": "Preliminary Design",
+    "Type": "Eliminate"
+  },
+  {
+    "Id": 509,
+    "ScenarioID": 5,
+    "Title": "Consider using slipform construction for stair cores.",
+    "Details": "",
+    "Stage": "Preliminary Design",
+    "Type": "Eliminate"
+  },
+  {
+    "Id": 510,
+    "ScenarioID": 5,
+    "Title": "Consider positioning of stairs, to reduce extent of voids.  Position on the internal face of building perimeter where possible.",
+    "Details": "",
+    "Stage": "Preliminary Design",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 512,
+    "ScenarioID": 5,
+    "Title": "Ensure erection of stairs  is sequenced so that stairs and handrails can go in as early as possible to provide safe access to high levels of the structure;",
+    "Details": "",
+    "Stage": "Preliminary Design",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 513,
+    "ScenarioID": 5,
+    "Title": "Consider whether early fixing of stairs will benefit emergency evacuation, or access by all trades",
+    "Details": "",
+    "Stage": "Preliminary Design",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 156,
+    "ScenarioID": 5,
+    "Title": "Establish survey control \"permanently\" so that when structures are erected, survey control monuments are still accessible.",
+    "Details": "",
+    "Stage": "Site work, Temp Works, Change control",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 523,
+    "ScenarioID": 5,
+    "Title": "Mitigate falls by using work equipment to minimise the distance and consequences of a fall and protect all those at risk (e.g. nets or soft landing systems positioned under any exposed openings)",
+    "Details": "",
+    "Stage": "Site work, Temp Works, Change control",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 525,
+    "ScenarioID": 5,
+    "Title": "Contractor should identify all remaining stairs/ stairwells and regularly  check  the  safety measures.",
+    "Details": "",
+    "Stage": "Site work, Temp Works, Change control",
+    "Type": "Inform"
+  },
+  {
+    "Id": 162,
+    "ScenarioID": 6,
+    "Title": "Design of temporary works for gaining access at height in shaft.",
+    "Details": "",
+    "Stage": "Detail Design",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 529,
+    "ScenarioID": 6,
+    "Title": "Chases or holes should be detailed to be cast into the unit and not cut or drilled later",
+    "Details": "",
+    "Stage": "Detail Design",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 530,
+    "ScenarioID": 6,
+    "Title": "Design GRP covers to prevent falls from height.",
+    "Details": "",
+    "Stage": "Detail Design",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 539,
+    "ScenarioID": 6,
+    "Title": "Inform safe working loads on drawings for GRP products.",
+    "Details": "",
+    "Stage": "Detail Design",
+    "Type": "Inform"
+  },
+  {
+    "Id": 546,
+    "ScenarioID": 6,
+    "Title": "Design provision for fixed guardrails at shaft openings.",
+    "Details": "",
+    "Stage": "Detail Design",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 547,
+    "ScenarioID": 6,
+    "Title": "Design access panels are lockable to control access.",
+    "Details": "",
+    "Stage": "Detail Design",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 541,
+    "ScenarioID": 6,
+    "Title": "Provide contractor with Pre-Construction information highlighting risk of working in risers.",
+    "Details": "",
+    "Stage": "Pre construction",
+    "Type": "Inform"
+  },
+  {
+    "Id": 526,
+    "ScenarioID": 6,
+    "Title": "Design slipform construction method.",
+    "Details": "",
+    "Stage": "Preliminary Design",
+    "Type": "Eliminate"
+  },
+  {
+    "Id": 531,
+    "ScenarioID": 6,
+    "Title": "Carry out a design risk study to identify any requirements to work at height in shaft during construction, and how access can be safely provided",
+    "Details": "",
+    "Stage": "Preliminary Design",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 537,
+    "ScenarioID": 6,
+    "Title": "Highlight riser location on drawings to inform detailed design and coordination.",
+    "Details": "",
+    "Stage": "Preliminary Design",
+    "Type": "Inform"
+  },
+  {
+    "Id": 553,
+    "ScenarioID": 6,
+    "Title": "Sequential installation of shaft, in relation to floors, limiting the number of openings by installing progressively - floor to floor.",
+    "Details": "",
+    "Stage": "Preliminary Design",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 554,
+    "ScenarioID": 6,
+    "Title": "Minimise the number of shafts where possible grouping services together.  Coordinate design with other disciplines.",
+    "Details": "",
+    "Stage": "Preliminary Design",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 170,
+    "ScenarioID": 6,
+    "Title": "Make adequate arrangements for temporary works design of any working platform at height in shaft",
+    "Details": "",
+    "Stage": "Site work, Temp Works, Change control",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 542,
+    "ScenarioID": 6,
+    "Title": "Use of permit to work system to control access in to riser.",
+    "Details": "",
+    "Stage": "Site work, Temp Works, Change control",
+    "Type": "Inform"
+  },
+  {
+    "Id": 543,
+    "ScenarioID": 6,
+    "Title": "Display warning signage to prevent falls from height through guarding of shaft.",
+    "Details": "",
+    "Stage": "Site work, Temp Works, Change control",
+    "Type": "Inform"
+  },
+  {
+    "Id": 544,
+    "ScenarioID": 6,
+    "Title": "Display warning signage to prevent overloading of GRP system.",
+    "Details": "",
+    "Stage": "Site work, Temp Works, Change control",
+    "Type": "Inform"
+  },
+  {
+    "Id": 700,
+    "ScenarioID": 6,
+    "Title": "Design in access planels above 1100mm in height, to prevent falls from height.",
+    "Details": "",
+    "Stage": "Preliminary Design",
+    "Type": "Eliminate"
+  },
+  {
+    "Id": 719,
+    "ScenarioID": 6,
+    "Title": "Carry out risk study to identify any work at height required in lift shaft -plan all works at a single location together.",
+    "Details": "",
+    "Stage": "Pre construction",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 178,
+    "ScenarioID": 7,
+    "Title": "Reduce the need to handle heavy glazing units.",
+    "Details": "",
+    "Stage": "Detail Design",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 180,
+    "ScenarioID": 7,
+    "Title": "Design elements so that they can be cleaned and replaced safely.",
+    "Details": "",
+    "Stage": "Detail Design",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 183,
+    "ScenarioID": 7,
+    "Title": "Coordinate with structure engineers to ensure primary fixings are safe and easy to install.",
+    "Details": "",
+    "Stage": "Detail Design",
+    "Type": "Inform"
+  },
+  {
+    "Id": 173,
+    "ScenarioID": 7,
+    "Title": "Maximize prefabrication on the ground level  and minimize the need of fixing at height",
+    "Details": "",
+    "Stage": "Preliminary Design",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 174,
+    "ScenarioID": 7,
+    "Title": "Liaise with contractor  to identify the most appropriate edge protection",
+    "Details": "",
+    "Stage": "Preliminary Design",
+    "Type": "Inform"
+  },
+  {
+    "Id": 190,
+    "ScenarioID": 7,
+    "Title": "Maximize the use of mechanical handling.",
+    "Details": "",
+    "Stage": "Site work, Temp Works, Change control",
+    "Type": "Eliminate"
+  },
+  {
+    "Id": 191,
+    "ScenarioID": 7,
+    "Title": "Plan adequate supervision to monitor detect and correct deviations from set work method",
+    "Details": "",
+    "Stage": "Site work, Temp Works, Change control",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 894,
+    "ScenarioID": 7,
+    "Title": "Design use of a unitised cladding system, reducing the amount of work require at height.",
+    "Details": "",
+    "Stage": "Preliminary Design",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 895,
+    "ScenarioID": 7,
+    "Title": "Consider simplifying elevations from canopies / building protrusions - to simplify installation.",
+    "Details": "",
+    "Stage": "Preliminary Design",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 896,
+    "ScenarioID": 7,
+    "Title": "Early coordination with Structural designers and MEP designers for unitised curtain wall/ cladding design coordination.",
+    "Details": "",
+    "Stage": "Preliminary Design",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 897,
+    "ScenarioID": 7,
+    "Title": "Spatial coordination or building envelope construction.",
+    "Details": "",
+    "Stage": "Preliminary Design",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 898,
+    "ScenarioID": 7,
+    "Title": "Use of unitised systems requires a significant amount of upfront design work.",
+    "Details": "",
+    "Stage": "Preliminary Design",
+    "Type": "Inform"
+  },
+  {
+    "Id": 899,
+    "ScenarioID": 7,
+    "Title": "Specify temporary edge protection to be installed prior to the use of Pick and carry cranes.",
+    "Details": "",
+    "Stage": "Detail Design",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 900,
+    "ScenarioID": 7,
+    "Title": "Develop cladding details to provide primary attachments that are safe and easy to use in all locations",
+    "Details": "",
+    "Stage": "Detail Design",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 901,
+    "ScenarioID": 7,
+    "Title": "If bespoke cladding to be used - carry out design review with specialist contractor and suppliers",
+    "Details": "",
+    "Stage": "Detail Design",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 903,
+    "ScenarioID": 7,
+    "Title": "Coordination of site activities to provide adequate space for delivery and installation of equipment.",
+    "Details": "",
+    "Stage": "Pre construction",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 904,
+    "ScenarioID": 7,
+    "Title": "Liaise with specialist installers/lifting contractors in order to confirm methos of work",
+    "Details": "",
+    "Stage": "Pre construction",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 905,
+    "ScenarioID": 7,
+    "Title": "Confirm type and locations of fixing details.",
+    "Details": "",
+    "Stage": "Pre construction",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 906,
+    "ScenarioID": 7,
+    "Title": "Select access equipment in accordance with the general principals of prevention.",
+    "Details": "",
+    "Stage": "Pre construction",
+    "Type": "Inform"
+  },
+  {
+    "Id": 907,
+    "ScenarioID": 7,
+    "Title": "Develop safe working method statements",
+    "Details": "",
+    "Stage": "Pre construction",
+    "Type": "Inform"
+  },
+  {
+    "Id": 908,
+    "ScenarioID": 7,
+    "Title": "Identify installation tolerance requirements.",
+    "Details": "",
+    "Stage": "Pre construction",
+    "Type": "Inform"
+  },
+  {
+    "Id": 909,
+    "ScenarioID": 7,
+    "Title": "Provide pre-construction information to highlight hazards and risks.",
+    "Details": "",
+    "Stage": "Pre construction",
+    "Type": "Inform"
+  },
+  {
+    "Id": 910,
+    "ScenarioID": 7,
+    "Title": "Complete risk assessments for work activities in accordance with WaH regulations.",
+    "Details": "",
+    "Stage": "Site work, Temp Works, Change control",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 911,
+    "ScenarioID": 7,
+    "Title": "Monitor tolerances during installation process.",
+    "Details": "",
+    "Stage": "Site work, Temp Works, Change control",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 912,
+    "ScenarioID": 7,
+    "Title": "Use of PPE as specified in the risk assessment.",
+    "Details": "",
+    "Stage": "Site work, Temp Works, Change control",
+    "Type": "Inform"
+  },
+  {
+    "Id": 913,
+    "ScenarioID": 7,
+    "Title": "Confirm any residual risk in the health and safety file.",
+    "Details": "",
+    "Stage": "Site work, Temp Works, Change control",
+    "Type": "Inform"
+  },
+  {
+    "Id": 195,
+    "ScenarioID": 8,
+    "Title": "Design roof structure with a maximum spacing of 600 mm between trusses and rafters.",
+    "Details": "",
+    "Stage": "Detail Design",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 197,
+    "ScenarioID": 8,
+    "Title": "Where practical, consider including a permanent safety mesh underneath the roof.",
+    "Details": "",
+    "Stage": "Detail Design",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 202,
+    "ScenarioID": 8,
+    "Title": "A permanent warning sign to be fixed near the area where the roof is covered with fragile material.",
+    "Details": "",
+    "Stage": "Pre construction",
+    "Type": "Inform"
+  },
+  {
+    "Id": 192,
+    "ScenarioID": 8,
+    "Title": "Where practical, specify prefabricated roof structures, rather than individual members.",
+    "Details": "",
+    "Stage": "Preliminary Design",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 194,
+    "ScenarioID": 8,
+    "Title": "Prohibit specification or fitting of fragile rooflights",
+    "Details": "",
+    "Stage": "Preliminary Design",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 720,
+    "ScenarioID": 8,
+    "Title": "Consider the design the design and shape of roof to limit the risk of falling, such as flat roof.",
+    "Details": "",
+    "Stage": "Preliminary Design",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 721,
+    "ScenarioID": 8,
+    "Title": "Consider designing low-pitch roofs  (less than 30 degree)",
+    "Details": "",
+    "Stage": "Preliminary Design",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 722,
+    "ScenarioID": 8,
+    "Title": "Ensure all roof structures are loadbearing and classified non-fragile.",
+    "Details": "",
+    "Stage": "Preliminary Design",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 723,
+    "ScenarioID": 8,
+    "Title": "Install permanent anchorage points on roof slabs to provide permanent tie-offs points for fall arrest systems.",
+    "Details": "",
+    "Stage": "Detail Design",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 724,
+    "ScenarioID": 8,
+    "Title": "Rooflight fixings to be in contrasting colours.",
+    "Details": "",
+    "Stage": "Detail Design",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 725,
+    "ScenarioID": 8,
+    "Title": "Ensure skylights are specified to class 2 to prevent falling through.",
+    "Details": "",
+    "Stage": "Pre construction",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 726,
+    "ScenarioID": 8,
+    "Title": "Highlight risk in Pre-Construction information.",
+    "Details": "",
+    "Stage": "Pre construction",
+    "Type": "Inform"
+  },
+  {
+    "Id": 727,
+    "ScenarioID": 8,
+    "Title": "Provide working platform with edge protection at just below eaves level.",
+    "Details": "",
+    "Stage": "Site work, Temp Works, Change control",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 728,
+    "ScenarioID": 8,
+    "Title": "Install crash deck to provide working platform.",
+    "Details": "",
+    "Stage": "Site work, Temp Works, Change control",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 729,
+    "ScenarioID": 8,
+    "Title": "Install safety net or soft landing system.",
+    "Details": "",
+    "Stage": "Site work, Temp Works, Change control",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 730,
+    "ScenarioID": 8,
+    "Title": "Provide adequate means of transfer of materials to the roof.",
+    "Details": "",
+    "Stage": "Site work, Temp Works, Change control",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 731,
+    "ScenarioID": 8,
+    "Title": "Load out materials in a uniform manner.",
+    "Details": "",
+    "Stage": "Site work, Temp Works, Change control",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 732,
+    "ScenarioID": 8,
+    "Title": "Use mechanical lifting aids for assited lifting.",
+    "Details": "",
+    "Stage": "Site work, Temp Works, Change control",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 208,
+    "ScenarioID": 9,
+    "Title": "A metal bracket is permanently connected to a concrete floor deck or steel.",
+    "Details": "",
+    "Stage": "Detail Design",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 210,
+    "ScenarioID": 9,
+    "Title": "Scaffolds should be designed, erected, altered and dismantled only by competent people and the work should always be carried out under the direction of a competent supervisor.",
+    "Details": "",
+    "Stage": "Pre construction",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 211,
+    "ScenarioID": 9,
+    "Title": "Ensure that the preferred solution takes advantage of new developments in access equipment.",
+    "Details": "",
+    "Stage": "Pre construction",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 212,
+    "ScenarioID": 9,
+    "Title": "All scaffold erection to use advance guardrail system or equivalent",
+    "Details": "",
+    "Stage": "Pre construction",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 213,
+    "ScenarioID": 9,
+    "Title": "TW designer to specify when permanent strength of structure is achieved and temporary supports can be removed",
+    "Details": "",
+    "Stage": "Pre construction",
+    "Type": "Inform"
+  },
+  {
+    "Id": 207,
+    "ScenarioID": 9,
+    "Title": "Consider potential for designing temporary works which can become permanent i.e. do not require removal",
+    "Details": "",
+    "Stage": "Preliminary Design",
+    "Type": "Inform"
+  },
+  {
+    "Id": 216,
+    "ScenarioID": 9,
+    "Title": "Plan and resource supervision to ensure safety integrity of temporary working platforms is maintained",
+    "Details": "",
+    "Stage": "Site work, Temp Works, Change control",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 743,
+    "ScenarioID": 9,
+    "Title": "Ensure adequate hardstanding and space avaliable to ensure adeuate height to width ratio.",
+    "Details": "",
+    "Stage": "Preliminary Design",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 744,
+    "ScenarioID": 9,
+    "Title": "Consider alternatives to tube and fitting scaffoldings, use of pre-fabricated systems.",
+    "Details": "",
+    "Stage": "Preliminary Design",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 745,
+    "ScenarioID": 9,
+    "Title": "Incorperate a proprietry stairs within the scaffold structure.",
+    "Details": "",
+    "Stage": "Preliminary Design",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 746,
+    "ScenarioID": 9,
+    "Title": "Design of building envelope to avoid protrusions or cantilevered structures.",
+    "Details": "",
+    "Stage": "Preliminary Design",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 747,
+    "ScenarioID": 9,
+    "Title": "Consider avoiding areas of larger spans, to prevent additional design requirements for scaffolding.",
+    "Details": "",
+    "Stage": "Preliminary Design",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 748,
+    "ScenarioID": 9,
+    "Title": "Design in provisions for scaffolding ties and anchors .",
+    "Details": "",
+    "Stage": "Preliminary Design",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 749,
+    "ScenarioID": 9,
+    "Title": "Inform designers to provide the information required to help the temporary works designer.",
+    "Details": "",
+    "Stage": "Preliminary Design",
+    "Type": "Inform"
+  },
+  {
+    "Id": 750,
+    "ScenarioID": 9,
+    "Title": "Provide ground bearing ratio details.",
+    "Details": "",
+    "Stage": "Preliminary Design",
+    "Type": "Inform"
+  },
+  {
+    "Id": 751,
+    "ScenarioID": 9,
+    "Title": "Design in approprate loading platforms (heavy duty class).",
+    "Details": "",
+    "Stage": "Detail Design",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 752,
+    "ScenarioID": 9,
+    "Title": "Consideration of sequencing of tie removal and cladding /curtain walling installation to ensure stability.",
+    "Details": "",
+    "Stage": "Detail Design",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 753,
+    "ScenarioID": 9,
+    "Title": "Consider vehicle movements around site, to ensure safe working distances from scaffolding.",
+    "Details": "",
+    "Stage": "Detail Design",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 754,
+    "ScenarioID": 9,
+    "Title": "Beam clamp to be connected to a steel structure, to provide anchor point",
+    "Details": "",
+    "Stage": "Detail Design",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 755,
+    "ScenarioID": 9,
+    "Title": "Consideration of coordination of excavations away from temporary structures.",
+    "Details": "",
+    "Stage": "Detail Design",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 756,
+    "ScenarioID": 9,
+    "Title": "Minimise protrusions from scaffolding.",
+    "Details": "",
+    "Stage": "Detail Design",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 757,
+    "ScenarioID": 9,
+    "Title": "Contractor to identify safety critical elements of temporary works and ensure site operatives understand which elements  cannot be disturbed.  Information to be marked on plans and drawings.",
+    "Details": "",
+    "Stage": "Pre construction",
+    "Type": "Inform"
+  },
+  {
+    "Id": 758,
+    "ScenarioID": 9,
+    "Title": "Temporary works to be coordinated across site.",
+    "Details": "",
+    "Stage": "Site work, Temp Works, Change control",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 761,
+    "ScenarioID": 9,
+    "Title": "Ensure adequate hardstanding and space available to ensure adequate height to width ratio.",
+    "Details": "",
+    "Stage": "Preliminary Design",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 762,
+    "ScenarioID": 9,
+    "Title": "Incorporate a proprietary stairs within the scaffold structure.",
+    "Details": "",
+    "Stage": "Preliminary Design",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 764,
+    "ScenarioID": 9,
+    "Title": "Ensure safe working loads are communicated and listed on designs/ drawings and specifications.",
+    "Details": "",
+    "Stage": "Site work, Temp Works, Change control",
+    "Type": "Inform"
+  },
+  {
+    "Id": 765,
+    "ScenarioID": 9,
+    "Title": "Handover certification and regular scaffolding checks to be employed by competent people, in line with mandatory requirements.  Enter information and maintain on scaffold inspection register.",
+    "Details": "",
+    "Stage": "Site work, Temp Works, Change control",
+    "Type": "Inform"
+  },
+  {
+    "Id": 221,
+    "ScenarioID": 10,
+    "Title": "Provide edge protection permanently fixed for safe access to plant room",
+    "Details": "",
+    "Stage": "Detail Design",
+    "Type": "Eliminate"
+  },
+  {
+    "Id": 804,
+    "ScenarioID": 10,
+    "Title": "Design out the requirement for accessing the roof. For example, situate plant at ground level.",
+    "Details": "",
+    "Stage": "Preliminary Design",
+    "Type": "Eliminate"
+  },
+  {
+    "Id": 805,
+    "ScenarioID": 10,
+    "Title": "Design in suitable parapet or permanent edge protection to at least 1100mm height.",
+    "Details": "",
+    "Stage": "Preliminary Design",
+    "Type": "Eliminate"
+  },
+  {
+    "Id": 806,
+    "ScenarioID": 10,
+    "Title": "Position plant in centre of roof away from edges. Ensure plant is situated near access point to avoid walking across roof.",
+    "Details": "",
+    "Stage": "Preliminary Design",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 807,
+    "ScenarioID": 10,
+    "Title": "Design the plant controls to prevent the need of going to the roof.",
+    "Details": "",
+    "Stage": "Preliminary Design",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 808,
+    "ScenarioID": 10,
+    "Title": "Design out the requirement for multiple roof levels.",
+    "Details": "",
+    "Stage": "Preliminary Design",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 809,
+    "ScenarioID": 10,
+    "Title": "Design in direct access to a plant enclosure forming suitable edge protection, to 1100mm min height.",
+    "Details": "",
+    "Stage": "Preliminary Design",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 810,
+    "ScenarioID": 10,
+    "Title": "Design in staircase, for access to and between roof levels.",
+    "Details": "",
+    "Stage": "Preliminary Design",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 811,
+    "ScenarioID": 10,
+    "Title": "Design in shipsladder, for access to and between roof levels.",
+    "Details": "",
+    "Stage": "Preliminary Design",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 812,
+    "ScenarioID": 10,
+    "Title": "Design in CAT ladder, for access to and between roof levels.",
+    "Details": "",
+    "Stage": "Preliminary Design",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 813,
+    "ScenarioID": 10,
+    "Title": "Design in means to transport materials and remove waste.",
+    "Details": "",
+    "Stage": "Preliminary Design",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 814,
+    "ScenarioID": 10,
+    "Title": "Maximum applied loads to be specified on the structural information.",
+    "Details": "",
+    "Stage": "Preliminary Design",
+    "Type": "Inform"
+  },
+  {
+    "Id": 815,
+    "ScenarioID": 10,
+    "Title": "Specify location and sizes of risers.",
+    "Details": "",
+    "Stage": "Preliminary Design",
+    "Type": "Inform"
+  },
+  {
+    "Id": 816,
+    "ScenarioID": 10,
+    "Title": "Specify the location and sizes of lift overruns.",
+    "Details": "",
+    "Stage": "Preliminary Design",
+    "Type": "Inform"
+  },
+  {
+    "Id": 817,
+    "ScenarioID": 10,
+    "Title": "Make sure accessways are suitably slip resistant.  Consider loading requirements for tracking plant.",
+    "Details": "",
+    "Stage": "Preliminary Design",
+    "Type": "Inform"
+  },
+  {
+    "Id": 818,
+    "ScenarioID": 10,
+    "Title": "Prioritise long lasting plant with extended design life and minimum maintenance requirements.",
+    "Details": "",
+    "Stage": "Detail Design",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 819,
+    "ScenarioID": 10,
+    "Title": "Provide guarded walkways to maintenance zones.",
+    "Details": "",
+    "Stage": "Detail Design",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 820,
+    "ScenarioID": 10,
+    "Title": "Design in access to each roof level independently, avoiding transition between roof levels.",
+    "Details": "",
+    "Stage": "Detail Design",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 821,
+    "ScenarioID": 10,
+    "Title": "Provide proprietry access hatch with integral guardrail protection.",
+    "Details": "",
+    "Stage": "Detail Design",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 822,
+    "ScenarioID": 10,
+    "Title": "Ensure access points are secure and lockable.",
+    "Details": "",
+    "Stage": "Detail Design",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 823,
+    "ScenarioID": 10,
+    "Title": "Coordinate pipework/ ductwork to one location to avoid clashes with walkways.",
+    "Details": "",
+    "Stage": "Detail Design",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 824,
+    "ScenarioID": 10,
+    "Title": "Design in ballasted edge protection for the permanent state.",
+    "Details": "",
+    "Stage": "Detail Design",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 825,
+    "ScenarioID": 10,
+    "Title": "Fixed horizontal line system to be specified to access all required maintenance items.",
+    "Details": "",
+    "Stage": "Detail Design",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 826,
+    "ScenarioID": 10,
+    "Title": "Observe safe working distances for walkways from edges.",
+    "Details": "",
+    "Stage": "Detail Design",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 827,
+    "ScenarioID": 10,
+    "Title": "Provide suitable lighting in the permanent state.",
+    "Details": "",
+    "Stage": "Detail Design",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 829,
+    "ScenarioID": 10,
+    "Title": "Specify requirements for maintenance of plant situated on the roof.",
+    "Details": "",
+    "Stage": "Detail Design",
+    "Type": "Inform"
+  },
+  {
+    "Id": 830,
+    "ScenarioID": 10,
+    "Title": "Inform areas where hop ups are required and limit on manual handling routes.",
+    "Details": "",
+    "Stage": "Detail Design",
+    "Type": "Inform"
+  },
+  {
+    "Id": 831,
+    "ScenarioID": 10,
+    "Title": "Provide test and inspection of installed safety systems.",
+    "Details": "",
+    "Stage": "Pre construction",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 832,
+    "ScenarioID": 10,
+    "Title": "Ensure selection competent contractor.",
+    "Details": "",
+    "Stage": "Pre construction",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 833,
+    "ScenarioID": 10,
+    "Title": "Check SSoW.",
+    "Details": "",
+    "Stage": "Pre construction",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 834,
+    "ScenarioID": 10,
+    "Title": "Provide O&M's and H&S file for the building.",
+    "Details": "",
+    "Stage": "Pre construction",
+    "Type": "Inform"
+  },
+  {
+    "Id": 835,
+    "ScenarioID": 10,
+    "Title": "Provide permit to work for access to roof level.",
+    "Details": "",
+    "Stage": "Site work, Temp Works, Change control",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 836,
+    "ScenarioID": 10,
+    "Title": "Communication of emergency measures between contractor and building owner.",
+    "Details": "",
+    "Stage": "Site work, Temp Works, Change control",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 837,
+    "ScenarioID": 10,
+    "Title": "Update maintenance records and provide relevant information.",
+    "Details": "",
+    "Stage": "Site work, Temp Works, Change control",
+    "Type": "Inform"
+  },
+  {
+    "Id": 238,
+    "ScenarioID": 11,
+    "Title": "Ensure proposed working methods (e.g. vibration) do not compromise the excavation's stability",
+    "Details": "",
+    "Stage": "Pre construction",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 239,
+    "ScenarioID": 11,
+    "Title": "Ensure that groundworks contractors are informed of all relevant safety information",
+    "Details": "",
+    "Stage": "Pre construction",
+    "Type": "Inform"
+  },
+  {
+    "Id": 225,
+    "ScenarioID": 11,
+    "Title": "Use side strip and piling methods where possible",
+    "Details": "",
+    "Stage": "Preliminary Design",
+    "Type": "Eliminate"
+  },
+  {
+    "Id": 227,
+    "ScenarioID": 11,
+    "Title": "Use interlocking sheet piles",
+    "Details": "",
+    "Stage": "Preliminary Design",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 228,
+    "ScenarioID": 11,
+    "Title": "Use secant piles",
+    "Details": "",
+    "Stage": "Preliminary Design",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 229,
+    "ScenarioID": 11,
+    "Title": "Use trench boxes",
+    "Details": "",
+    "Stage": "Preliminary Design",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 231,
+    "ScenarioID": 11,
+    "Title": "Supply piling technique information to the design and construction team",
+    "Details": "",
+    "Stage": "Preliminary Design",
+    "Type": "Inform"
+  },
+  {
+    "Id": 240,
+    "ScenarioID": 11,
+    "Title": "Earthwork support system to be placed and inspected",
+    "Details": "",
+    "Stage": "Site work, Temp Works, Change control",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 241,
+    "ScenarioID": 11,
+    "Title": "Safe placing of spoil during excavation",
+    "Details": "",
+    "Stage": "Site work, Temp Works, Change control",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 242,
+    "ScenarioID": 11,
+    "Title": "Maintain weekly inspection of excavation",
+    "Details": "",
+    "Stage": "Site work, Temp Works, Change control",
+    "Type": "Inform"
+  },
+  {
+    "Id": 243,
+    "ScenarioID": 11,
+    "Title": "Ensure full risk assessment is carried out if the excavations need late change",
+    "Details": "",
+    "Stage": "Site work, Temp Works, Change control",
+    "Type": "Inform"
+  },
+  {
+    "Id": 784,
+    "ScenarioID": 11,
+    "Title": "Use piling methods where possible",
+    "Details": "",
+    "Stage": "Preliminary Design",
+    "Type": "Eliminate"
+  },
+  {
+    "Id": 785,
+    "ScenarioID": 11,
+    "Title": "Use shallow foundations or strip foundation design, to prevent excavation where possible",
+    "Details": "",
+    "Stage": "Preliminary Design",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 786,
+    "ScenarioID": 11,
+    "Title": "Obtain Geotechnical report and discuss with structural engineer",
+    "Details": "",
+    "Stage": "Preliminary Design",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 787,
+    "ScenarioID": 11,
+    "Title": "Geotechnical information and findings to be provided in the pre-construction information.",
+    "Details": "",
+    "Stage": "Preliminary Design",
+    "Type": "Inform"
+  },
+  {
+    "Id": 788,
+    "ScenarioID": 11,
+    "Title": "Supply information on temporary works design, to the design and construction team",
+    "Details": "",
+    "Stage": "Preliminary Design",
+    "Type": "Inform"
+  },
+  {
+    "Id": 789,
+    "ScenarioID": 11,
+    "Title": "Ensure adequate space to place the excavated soil suitable distances from the excavation area(s)",
+    "Details": "",
+    "Stage": "Detail Design",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 790,
+    "ScenarioID": 11,
+    "Title": "Ensure coordination of temporary and permanent works",
+    "Details": "",
+    "Stage": "Detail Design",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 791,
+    "ScenarioID": 11,
+    "Title": "Keep traffic routes at safe margin from excavations",
+    "Details": "",
+    "Stage": "Detail Design",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 792,
+    "ScenarioID": 11,
+    "Title": "Consider using interlocking sheet piles if applicable",
+    "Details": "",
+    "Stage": "Detail Design",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 793,
+    "ScenarioID": 11,
+    "Title": "Construction sequencing to be considered against open excavations",
+    "Details": "",
+    "Stage": "Detail Design",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 794,
+    "ScenarioID": 11,
+    "Title": "Ensure a section in the site traffic management plan to take account of excavations",
+    "Details": "",
+    "Stage": "Detail Design",
+    "Type": "Inform"
+  },
+  {
+    "Id": 795,
+    "ScenarioID": 11,
+    "Title": "Carry out risk study to ensure extreme weather condition is taken into account",
+    "Details": "",
+    "Stage": "Pre construction",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 796,
+    "ScenarioID": 11,
+    "Title": "Supply information on excavation battering to the design and construction team",
+    "Details": "",
+    "Stage": "Pre construction",
+    "Type": "Inform"
+  },
+  {
+    "Id": 797,
+    "ScenarioID": 11,
+    "Title": "Batter sides of excavation",
+    "Details": "",
+    "Stage": "Site work, Temp Works, Change control",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 798,
+    "ScenarioID": 11,
+    "Title": "Carry out risk study to ensure extreme weather condition is taken into account",
+    "Details": "",
+    "Stage": "Site work, Temp Works, Change control",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 799,
+    "ScenarioID": 11,
+    "Title": "Ensure traffic management plan to prevent plant encroachment near excavation.",
+    "Details": "",
+    "Stage": "Site work, Temp Works, Change control",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 800,
+    "ScenarioID": 11,
+    "Title": "Use of road plates",
+    "Details": "",
+    "Stage": "Site work, Temp Works, Change control",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 801,
+    "ScenarioID": 11,
+    "Title": "Separate excavations on site with barriers and signage. Limit and control entry to excavation area.",
+    "Details": "",
+    "Stage": "Site work, Temp Works, Change control",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 802,
+    "ScenarioID": 11,
+    "Title": "Ensure temorary works requirements are met",
+    "Details": "",
+    "Stage": "Site work, Temp Works, Change control",
+    "Type": "Inform"
+  },
+  {
+    "Id": 803,
+    "ScenarioID": 11,
+    "Title": "Ensure working methods on site take account of late changes",
+    "Details": "",
+    "Stage": "Site work, Temp Works, Change control",
+    "Type": "Inform"
+  },
+  {
+    "Id": 684,
+    "ScenarioID": 13,
+    "Title": "Consider the use of slew restrictors for the design and coordination of temporary works",
+    "Details": "",
+    "Stage": "Detail Design",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 685,
+    "ScenarioID": 13,
+    "Title": "Design in one  way traffic systems, including traffic calming measures.",
+    "Details": "",
+    "Stage": "Detail Design",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 686,
+    "ScenarioID": 13,
+    "Title": "Make sure that excavation activities do not overlap with other activities in the same area",
+    "Details": "",
+    "Stage": "Detail Design",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 269,
+    "ScenarioID": 13,
+    "Title": "Identify exclusion zones and introduce segregation policy",
+    "Details": "",
+    "Stage": "Pre construction",
+    "Type": "Inform"
+  },
+  {
+    "Id": 687,
+    "ScenarioID": 13,
+    "Title": "Limit the number of vehicles in operation",
+    "Details": "",
+    "Stage": "Pre construction",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 688,
+    "ScenarioID": 13,
+    "Title": "Ensure radio communication between operatives and increase separation distances between people and plant",
+    "Details": "",
+    "Stage": "Pre construction",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 689,
+    "ScenarioID": 13,
+    "Title": "Produce site logistics/traffic management plan to make sure pedestrians are segregated, including pedestrian crossing points.",
+    "Details": "",
+    "Stage": "Pre construction",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 690,
+    "ScenarioID": 13,
+    "Title": "Eliminate the need of having people around the excavator",
+    "Details": "",
+    "Stage": "Pre construction",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 260,
+    "ScenarioID": 13,
+    "Title": "Consider alternative excavation methods that do not require heavy machinery",
+    "Details": "",
+    "Stage": "Preliminary Design",
+    "Type": "Eliminate"
+  },
+  {
+    "Id": 261,
+    "ScenarioID": 13,
+    "Title": "Consider ground level design alternatives for basements and shafts",
+    "Details": "",
+    "Stage": "Preliminary Design",
+    "Type": "Eliminate"
+  },
+  {
+    "Id": 262,
+    "ScenarioID": 13,
+    "Title": "Work with the topography to reduce the amount of excavation",
+    "Details": "",
+    "Stage": "Preliminary Design",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 680,
+    "ScenarioID": 13,
+    "Title": "Plan excavation work to reduce the number of excavators needed on site",
+    "Details": "",
+    "Stage": "Preliminary Design",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 681,
+    "ScenarioID": 13,
+    "Title": "Consider piling methods to reduce excavation",
+    "Details": "",
+    "Stage": "Preliminary Design",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 682,
+    "ScenarioID": 13,
+    "Title": "Use of sensor technology to mitigate plant / pedestrian interface",
+    "Details": "",
+    "Stage": "Preliminary Design",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 683,
+    "ScenarioID": 13,
+    "Title": "Obtain GI report to assess ground conditions",
+    "Details": "",
+    "Stage": "Preliminary Design",
+    "Type": "Inform"
+  },
+  {
+    "Id": 270,
+    "ScenarioID": 13,
+    "Title": "Use excavator stop blocks to create safe areas for adjacent workers",
+    "Details": "",
+    "Stage": "Site work, Temp Works, Change control",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 271,
+    "ScenarioID": 13,
+    "Title": "Ensure suitable barriers are in place around open excavations",
+    "Details": "",
+    "Stage": "Site work, Temp Works, Change control",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 272,
+    "ScenarioID": 13,
+    "Title": "Ensure equipment is fit for purpose and meets driver visibility standards (e.g. mirrors, etc.)",
+    "Details": "",
+    "Stage": "Site work, Temp Works, Change control",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 273,
+    "ScenarioID": 13,
+    "Title": "Use wearable sensors for the operators that need to be working near the excavator",
+    "Details": "",
+    "Stage": "Site work, Temp Works, Change control",
+    "Type": "Inform"
+  },
+  {
+    "Id": 691,
+    "ScenarioID": 13,
+    "Title": "Adequate temporary lighting to be provided",
+    "Details": "",
+    "Stage": "Site work, Temp Works, Change control",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 692,
+    "ScenarioID": 13,
+    "Title": "Use a trained and competent banksman for all vehicle and plant movements.",
+    "Details": "",
+    "Stage": "Site work, Temp Works, Change control",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 693,
+    "ScenarioID": 13,
+    "Title": "All operatives to have suitable PPE for easy identification",
+    "Details": "",
+    "Stage": "Site work, Temp Works, Change control",
+    "Type": "Inform"
+  },
+  {
+    "Id": 281,
+    "ScenarioID": 14,
+    "Title": "Assess location of canti-deck as a factor in causing blind lifts",
+    "Details": "",
+    "Stage": "Detail Design",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 283,
+    "ScenarioID": 14,
+    "Title": "Replace canti-deck by hoist to load the floors with materials",
+    "Details": "",
+    "Stage": "Detail Design",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 284,
+    "ScenarioID": 14,
+    "Title": "Design lifting plan created by permanent work designers in cooperation with PD, temporary works designer, lifting specialist and the PC",
+    "Details": "",
+    "Stage": "Detail Design",
+    "Type": "Inform"
+  },
+  {
+    "Id": 285,
+    "ScenarioID": 14,
+    "Title": "Sequence lifting operations to avoid clashes with other trades",
+    "Details": "",
+    "Stage": "Pre construction",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 286,
+    "ScenarioID": 14,
+    "Title": "Coordinate deliveries in order to place pods in sequence on the floors as you go up",
+    "Details": "",
+    "Stage": "Pre construction",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 275,
+    "ScenarioID": 14,
+    "Title": "Review with contractor frequency and weight of lifts to optimise lifting operations",
+    "Details": "",
+    "Stage": "Preliminary Design",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 277,
+    "ScenarioID": 14,
+    "Title": "Consider using pods manufactured offsite to reduce number of lifts",
+    "Details": "",
+    "Stage": "Preliminary Design",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 278,
+    "ScenarioID": 14,
+    "Title": "Early contractor involvement in planning lifting operations",
+    "Details": "",
+    "Stage": "Preliminary Design",
+    "Type": "Inform"
+  },
+  {
+    "Id": 288,
+    "ScenarioID": 14,
+    "Title": "All blind lifts to be supervised by a trained and authorised supervisor",
+    "Details": "",
+    "Stage": "Site work, Temp Works, Change control",
+    "Type": "Inform"
+  },
+  {
+    "Id": 289,
+    "ScenarioID": 14,
+    "Title": "Authorised and trained lifting team communicating with radios",
+    "Details": "",
+    "Stage": "Site work, Temp Works, Change control",
+    "Type": "Inform"
+  },
+  {
+    "Id": 766,
+    "ScenarioID": 14,
+    "Title": "Consider proiding adequate space for the delivery offloading and erection of the crane.",
+    "Details": "",
+    "Stage": "Preliminary Design",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 767,
+    "ScenarioID": 14,
+    "Title": "Consider alternative method of lifting in order to avoid the need to blind lift",
+    "Details": "",
+    "Stage": "Preliminary Design",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 768,
+    "ScenarioID": 14,
+    "Title": "Consider building component sizes and design out excessively large items.",
+    "Details": "",
+    "Stage": "Preliminary Design",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 769,
+    "ScenarioID": 14,
+    "Title": "Consideration of sequencing to permit buildability and limit crane usage.",
+    "Details": "",
+    "Stage": "Preliminary Design",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 770,
+    "ScenarioID": 14,
+    "Title": "Commission of service lift earlier. Replace canti-deck with service lifts",
+    "Details": "",
+    "Stage": "Preliminary Design",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 771,
+    "ScenarioID": 14,
+    "Title": "Engage with the structural engineer for the design of the tower crane base requirements.",
+    "Details": "",
+    "Stage": "Preliminary Design",
+    "Type": "Inform"
+  },
+  {
+    "Id": 772,
+    "ScenarioID": 14,
+    "Title": "Consider whether the use of a mobile crane would be effective in eliminating blind lifts",
+    "Details": "",
+    "Stage": "Detail Design",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 773,
+    "ScenarioID": 14,
+    "Title": "Consider helicopter lift, for areas with restricted space.",
+    "Details": "",
+    "Stage": "Detail Design",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 774,
+    "ScenarioID": 14,
+    "Title": "Consider the number and location of cranes on site required to build the structure.",
+    "Details": "",
+    "Stage": "Detail Design",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 775,
+    "ScenarioID": 14,
+    "Title": "Design in lifting eyes to assist with lifting.",
+    "Details": "",
+    "Stage": "Detail Design",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 776,
+    "ScenarioID": 14,
+    "Title": "Provide information of any loads with unusual centres of gravity.",
+    "Details": "",
+    "Stage": "Detail Design",
+    "Type": "Inform"
+  },
+  {
+    "Id": 777,
+    "ScenarioID": 14,
+    "Title": "Produce a 4D sequencing model  for all complex lifts",
+    "Details": "",
+    "Stage": "Pre construction",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 778,
+    "ScenarioID": 14,
+    "Title": "Ensure additional controls are in place for blind and complex lifts",
+    "Details": "",
+    "Stage": "Pre construction",
+    "Type": "Inform"
+  },
+  {
+    "Id": 779,
+    "ScenarioID": 14,
+    "Title": "Plan lifts in accordance with the mandatory LOLER requirements and best practice guides.",
+    "Details": "",
+    "Stage": "Pre construction",
+    "Type": "Inform"
+  },
+  {
+    "Id": 780,
+    "ScenarioID": 14,
+    "Title": "Use a restrictor on the crane movement where necessary to prevent oversailing.",
+    "Details": "",
+    "Stage": "Site work, Temp Works, Change control",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 781,
+    "ScenarioID": 14,
+    "Title": "Plan supervision of crane and lifting operations",
+    "Details": "",
+    "Stage": "Site work, Temp Works, Change control",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 782,
+    "ScenarioID": 14,
+    "Title": "Utilise a hook-camera to allow the operator to see what's underneath",
+    "Details": "",
+    "Stage": "Site work, Temp Works, Change control",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 299,
+    "ScenarioID": 15,
+    "Title": "Keep traffic routes at safe margin from excavations",
+    "Details": "",
+    "Stage": "Detail Design",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 300,
+    "ScenarioID": 15,
+    "Title": "Ensure a section in the site traffic management plan to take account of excavations",
+    "Details": "",
+    "Stage": "Detail Design",
+    "Type": "Inform"
+  },
+  {
+    "Id": 623,
+    "ScenarioID": 15,
+    "Title": "Consider using interlocking sheet piles if applicable",
+    "Details": "",
+    "Stage": "Detail Design",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 628,
+    "ScenarioID": 15,
+    "Title": "Ensure adequate space to place the excavated soil suitable distances from the excavation area(s)",
+    "Details": "",
+    "Stage": "Detail Design",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 629,
+    "ScenarioID": 15,
+    "Title": "Ensure coordination of temporary and permanent works",
+    "Details": "",
+    "Stage": "Detail Design",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 633,
+    "ScenarioID": 15,
+    "Title": "Construction sequencing to be considered against open excavations",
+    "Details": "",
+    "Stage": "Detail Design",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 301,
+    "ScenarioID": 15,
+    "Title": "Ensure proposed working methods (e.g. vibration) do not compromise the excavation's stability",
+    "Details": "",
+    "Stage": "Pre construction",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 302,
+    "ScenarioID": 15,
+    "Title": "Ensure that groundworks contractors are informed of all relevant safety information",
+    "Details": "",
+    "Stage": "Pre construction",
+    "Type": "Inform"
+  },
+  {
+    "Id": 630,
+    "ScenarioID": 15,
+    "Title": "Design out requirement for people to access excavations",
+    "Details": "",
+    "Stage": "Pre construction",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 293,
+    "ScenarioID": 15,
+    "Title": "Use trench boxes",
+    "Details": "",
+    "Stage": "Preliminary Design",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 614,
+    "ScenarioID": 15,
+    "Title": "Piled foundation design",
+    "Details": "",
+    "Stage": "Preliminary Design",
+    "Type": "Eliminate"
+  },
+  {
+    "Id": 615,
+    "ScenarioID": 15,
+    "Title": "Consider raft foundations",
+    "Details": "",
+    "Stage": "Preliminary Design",
+    "Type": "Eliminate"
+  },
+  {
+    "Id": 616,
+    "ScenarioID": 15,
+    "Title": "Use cantalievered ground beam",
+    "Details": "",
+    "Stage": "Preliminary Design",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 617,
+    "ScenarioID": 15,
+    "Title": "Group underground services to limit excavations.",
+    "Details": "",
+    "Stage": "Preliminary Design",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 619,
+    "ScenarioID": 15,
+    "Title": "Use vaccum excavation for services.",
+    "Details": "",
+    "Stage": "Preliminary Design",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 620,
+    "ScenarioID": 15,
+    "Title": "Obtain Geotechnical report and discuss with structural engineer",
+    "Details": "",
+    "Stage": "Preliminary Design",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 621,
+    "ScenarioID": 15,
+    "Title": "Supply information on temporary works design, to the design and construction team",
+    "Details": "",
+    "Stage": "Preliminary Design",
+    "Type": "Inform"
+  },
+  {
+    "Id": 622,
+    "ScenarioID": 15,
+    "Title": "Geotechnical information and findings to be provided in the pre-construction information.",
+    "Details": "",
+    "Stage": "Preliminary Design",
+    "Type": "Inform"
+  },
+  {
+    "Id": 303,
+    "ScenarioID": 15,
+    "Title": "Earthwork support system to be placed and inspected",
+    "Details": "",
+    "Stage": "Site work, Temp Works, Change control",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 304,
+    "ScenarioID": 15,
+    "Title": "Safe placing of spoil during excavation",
+    "Details": "",
+    "Stage": "Site work, Temp Works, Change control",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 305,
+    "ScenarioID": 15,
+    "Title": "Ensure temorary works requirements are met",
+    "Details": "",
+    "Stage": "Site work, Temp Works, Change control",
+    "Type": "Inform"
+  },
+  {
+    "Id": 306,
+    "ScenarioID": 15,
+    "Title": "Ensure full risk assessment is carried out if the excavations need late change",
+    "Details": "",
+    "Stage": "Site work, Temp Works, Change control",
+    "Type": "Inform"
+  },
+  {
+    "Id": 624,
+    "ScenarioID": 15,
+    "Title": "Batter sides of excavation",
+    "Details": "",
+    "Stage": "Site work, Temp Works, Change control",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 625,
+    "ScenarioID": 15,
+    "Title": "Carry out risk study to ensure extreme weather condition is taken into account",
+    "Details": "",
+    "Stage": "Site work, Temp Works, Change control",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 626,
+    "ScenarioID": 15,
+    "Title": "Ensure traffic management plan to prevent plant encroachment near excavation.",
+    "Details": "",
+    "Stage": "Site work, Temp Works, Change control",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 627,
+    "ScenarioID": 15,
+    "Title": "Use of road plates",
+    "Details": "",
+    "Stage": "Site work, Temp Works, Change control",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 631,
+    "ScenarioID": 15,
+    "Title": "Separate excavations on site with barriers and signage. Limit and control entry to excavation area.",
+    "Details": "",
+    "Stage": "Site work, Temp Works, Change control",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 632,
+    "ScenarioID": 15,
+    "Title": "Ensure working methods on site take account of late changes",
+    "Details": "",
+    "Stage": "Site work, Temp Works, Change control",
+    "Type": "Inform"
+  },
+  {
+    "Id": 642,
+    "ScenarioID": 16,
+    "Title": "Ensure adequate space to place the excavated soil suitable distances from the excavation area(s)",
+    "Details": "",
+    "Stage": "Detail Design",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 643,
+    "ScenarioID": 16,
+    "Title": "Ensure coordination of temporary and permanent works",
+    "Details": "",
+    "Stage": "Detail Design",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 644,
+    "ScenarioID": 16,
+    "Title": "Keep traffic routes at safe margin from excavations",
+    "Details": "",
+    "Stage": "Detail Design",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 645,
+    "ScenarioID": 16,
+    "Title": "Consider using interlocking sheet piles if applicable",
+    "Details": "",
+    "Stage": "Detail Design",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 646,
+    "ScenarioID": 16,
+    "Title": "Construction sequencing to be considered against open excavations",
+    "Details": "",
+    "Stage": "Detail Design",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 647,
+    "ScenarioID": 16,
+    "Title": "Ensure a section in the site traffic management plan to take account of excavations",
+    "Details": "",
+    "Stage": "Detail Design",
+    "Type": "Inform"
+  },
+  {
+    "Id": 663,
+    "ScenarioID": 16,
+    "Title": "Design excavations to avoid any existing structures/ voids / anomalies.",
+    "Details": "",
+    "Stage": "Detail Design",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 648,
+    "ScenarioID": 16,
+    "Title": "Ensure proposed working methods (e.g. vibration) do not compromise the excavation's stability",
+    "Details": "",
+    "Stage": "Pre construction",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 649,
+    "ScenarioID": 16,
+    "Title": "Design out requirement for people to access excavations",
+    "Details": "",
+    "Stage": "Pre construction",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 650,
+    "ScenarioID": 16,
+    "Title": "Ensure that groundworks contractors are informed of all relevant safety information",
+    "Details": "",
+    "Stage": "Pre construction",
+    "Type": "Inform"
+  },
+  {
+    "Id": 634,
+    "ScenarioID": 16,
+    "Title": "Consider trenchless excavation construction methods (e.g. directional drilling)",
+    "Details": "",
+    "Stage": "Preliminary Design",
+    "Type": "Eliminate"
+  },
+  {
+    "Id": 635,
+    "ScenarioID": 16,
+    "Title": "Group underground services to limit excavations.",
+    "Details": "",
+    "Stage": "Preliminary Design",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 637,
+    "ScenarioID": 16,
+    "Title": "Use trench boxes",
+    "Details": "",
+    "Stage": "Preliminary Design",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 638,
+    "ScenarioID": 16,
+    "Title": "Use vaccum excavation for services.",
+    "Details": "",
+    "Stage": "Preliminary Design",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 639,
+    "ScenarioID": 16,
+    "Title": "Obtain Geotechnical report and discuss with structural engineer",
+    "Details": "",
+    "Stage": "Preliminary Design",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 640,
+    "ScenarioID": 16,
+    "Title": "Supply information on temporary works design, to the design and construction team",
+    "Details": "",
+    "Stage": "Preliminary Design",
+    "Type": "Inform"
+  },
+  {
+    "Id": 641,
+    "ScenarioID": 16,
+    "Title": "Geotechnical information and findings to be provided in the pre-construction information.",
+    "Details": "",
+    "Stage": "Preliminary Design",
+    "Type": "Inform"
+  },
+  {
+    "Id": 661,
+    "ScenarioID": 16,
+    "Title": "Consider ground stabalisation techniques, grout drilling",
+    "Details": "",
+    "Stage": "Preliminary Design",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 662,
+    "ScenarioID": 16,
+    "Title": "Take account of adjacent structures in design",
+    "Details": "",
+    "Stage": "Preliminary Design",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 651,
+    "ScenarioID": 16,
+    "Title": "Earthwork support system to be placed and inspected",
+    "Details": "",
+    "Stage": "Site work, Temp Works, Change control",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 652,
+    "ScenarioID": 16,
+    "Title": "Batter sides of excavation",
+    "Details": "",
+    "Stage": "Site work, Temp Works, Change control",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 653,
+    "ScenarioID": 16,
+    "Title": "Carry out risk study to ensure extreme weather condition is taken into account",
+    "Details": "",
+    "Stage": "Site work, Temp Works, Change control",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 654,
+    "ScenarioID": 16,
+    "Title": "Safe placing of spoil during excavation",
+    "Details": "",
+    "Stage": "Site work, Temp Works, Change control",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 655,
+    "ScenarioID": 16,
+    "Title": "Ensure traffic management plan to prevent plant encroachment near excavation.",
+    "Details": "",
+    "Stage": "Site work, Temp Works, Change control",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 656,
+    "ScenarioID": 16,
+    "Title": "Use of road plates",
+    "Details": "",
+    "Stage": "Site work, Temp Works, Change control",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 657,
+    "ScenarioID": 16,
+    "Title": "Separate excavations on site with barriers and signage. Limit and control entry to excavation area.",
+    "Details": "",
+    "Stage": "Site work, Temp Works, Change control",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 658,
+    "ScenarioID": 16,
+    "Title": "Ensure temorary works requirements are met",
+    "Details": "",
+    "Stage": "Site work, Temp Works, Change control",
+    "Type": "Inform"
+  },
+  {
+    "Id": 659,
+    "ScenarioID": 16,
+    "Title": "Ensure full risk assessment is carried out if the excavations need late change",
+    "Details": "",
+    "Stage": "Site work, Temp Works, Change control",
+    "Type": "Inform"
+  },
+  {
+    "Id": 660,
+    "ScenarioID": 16,
+    "Title": "Ensure working methods on site take account of late changes",
+    "Details": "",
+    "Stage": "Site work, Temp Works, Change control",
+    "Type": "Inform"
+  },
+  {
+    "Id": 664,
+    "ScenarioID": 16,
+    "Title": "Ensure dewatering arrangements are available on site to prevent destabilisation of excavations",
+    "Details": "",
+    "Stage": "Site work, Temp Works, Change control",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 672,
+    "ScenarioID": 17,
+    "Title": "Early installation with intumencent paint",
+    "Details": "",
+    "Stage": "Detail Design",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 673,
+    "ScenarioID": 17,
+    "Title": "Early installation of fire detection systems",
+    "Details": "",
+    "Stage": "Detail Design",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 330,
+    "ScenarioID": 17,
+    "Title": "Make sure there is a fire safety plan for the construction site",
+    "Details": "",
+    "Stage": "Pre construction",
+    "Type": "Inform"
+  },
+  {
+    "Id": 327,
+    "ScenarioID": 17,
+    "Title": "Consider using concrete stairs",
+    "Details": "",
+    "Stage": "Preliminary Design",
+    "Type": "Eliminate"
+  },
+  {
+    "Id": 328,
+    "ScenarioID": 17,
+    "Title": "Sequence the work to ensure protective escape stairs in core building to be available for the workforce as soon as possible",
+    "Details": "",
+    "Stage": "Preliminary Design",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 668,
+    "ScenarioID": 17,
+    "Title": "Eliminate welding by using bolted prefabricated units",
+    "Details": "",
+    "Stage": "Preliminary Design",
+    "Type": "Eliminate"
+  },
+  {
+    "Id": 669,
+    "ScenarioID": 17,
+    "Title": "Design pre-fabricated sections to be lifted into position.",
+    "Details": "",
+    "Stage": "Preliminary Design",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 670,
+    "ScenarioID": 17,
+    "Title": "Design stairs with prefabricated edge protection for the permanent state.",
+    "Details": "",
+    "Stage": "Preliminary Design",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 671,
+    "ScenarioID": 17,
+    "Title": "Consider cold cutting methods",
+    "Details": "",
+    "Stage": "Preliminary Design",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 331,
+    "ScenarioID": 17,
+    "Title": "Provide adequate means of escape",
+    "Details": "",
+    "Stage": "Site work, Temp Works, Change control",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 332,
+    "ScenarioID": 17,
+    "Title": "Ensure no flammable waste near welding operations",
+    "Details": "",
+    "Stage": "Site work, Temp Works, Change control",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 333,
+    "ScenarioID": 17,
+    "Title": "Use protective curtains around the welding area to contain sparks",
+    "Details": "",
+    "Stage": "Site work, Temp Works, Change control",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 674,
+    "ScenarioID": 17,
+    "Title": "Use protective curtains around the welding area to contain sparks",
+    "Details": "",
+    "Stage": "Site work, Temp Works, Change control",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 675,
+    "ScenarioID": 17,
+    "Title": "Sequence the work to ensure protective escape stairs in core building to be available for the workforce as soon as possible",
+    "Details": "",
+    "Stage": "Site work, Temp Works, Change control",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 676,
+    "ScenarioID": 17,
+    "Title": "Provide adequate means of escape",
+    "Details": "",
+    "Stage": "Site work, Temp Works, Change control",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 677,
+    "ScenarioID": 17,
+    "Title": "Make sure there are fire alarms in place and tested before welding",
+    "Details": "",
+    "Stage": "Site work, Temp Works, Change control",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 678,
+    "ScenarioID": 17,
+    "Title": "Ensure hot works are managed through a permit to work proccedure",
+    "Details": "",
+    "Stage": "Site work, Temp Works, Change control",
+    "Type": "Inform"
+  },
+  {
+    "Id": 347,
+    "ScenarioID": 19,
+    "Title": "Competent person to sign off any access arrangements at height in the shaft",
+    "Details": "",
+    "Stage": "Site work, Temp Works, Change control",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 701,
+    "ScenarioID": 19,
+    "Title": "Design slipform construction method.",
+    "Details": "",
+    "Stage": "Preliminary Design",
+    "Type": "Eliminate"
+  },
+  {
+    "Id": 702,
+    "ScenarioID": 19,
+    "Title": "Design in access planels above 1100mm in height, to prevent falls from height.",
+    "Details": "",
+    "Stage": "Preliminary Design",
+    "Type": "Eliminate"
+  },
+  {
+    "Id": 703,
+    "ScenarioID": 19,
+    "Title": "Use a prefabricated concrete lift shaft sections.",
+    "Details": "",
+    "Stage": "Preliminary Design",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 704,
+    "ScenarioID": 19,
+    "Title": "Sequential installation of shaft, in relation to floors, limiting the number of openings by installing progressively - floor to floor.",
+    "Details": "",
+    "Stage": "Preliminary Design",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 705,
+    "ScenarioID": 19,
+    "Title": "Design in lift overrun with plant room ahead of shaft. Reducing the frequency of entry into the shaft.",
+    "Details": "",
+    "Stage": "Preliminary Design",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 706,
+    "ScenarioID": 19,
+    "Title": "Carry out a design risk study to identify any requirements to work at height in shaft during construction, and how access can be safely provided",
+    "Details": "",
+    "Stage": "Preliminary Design",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 707,
+    "ScenarioID": 19,
+    "Title": "Highlight shaft location on drawings to inform detailed design and coordination.",
+    "Details": "",
+    "Stage": "Preliminary Design",
+    "Type": "Inform"
+  },
+  {
+    "Id": 708,
+    "ScenarioID": 19,
+    "Title": "Design of temporary works for gaining access at height in shaft.",
+    "Details": "",
+    "Stage": "Detail Design",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 709,
+    "ScenarioID": 19,
+    "Title": "Chases or holes should be detailed to be cast into the unit and not cut or drilled later",
+    "Details": "",
+    "Stage": "Detail Design",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 710,
+    "ScenarioID": 19,
+    "Title": "Design provision for fixed guardrails at shaft openings.",
+    "Details": "",
+    "Stage": "Detail Design",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 711,
+    "ScenarioID": 19,
+    "Title": "Design access panels are lockable to control access.",
+    "Details": "",
+    "Stage": "Detail Design",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 712,
+    "ScenarioID": 19,
+    "Title": "Carry out risk study to identify any work at height required in lift shaft -plan all works at a single location together",
+    "Details": "",
+    "Stage": "Pre construction",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 713,
+    "ScenarioID": 19,
+    "Title": "Provide contractor with Pre-Construction information highlighting risk of working in shaft.",
+    "Details": "",
+    "Stage": "Pre construction",
+    "Type": "Inform"
+  },
+  {
+    "Id": 714,
+    "ScenarioID": 19,
+    "Title": "Make adequate arrangements for temporary works design of any working platform at height in shaft",
+    "Details": "",
+    "Stage": "Site work, Temp Works, Change control",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 715,
+    "ScenarioID": 19,
+    "Title": "Install temporary lift shaft doors. Ensure they can't be accidentally opened or easily removed",
+    "Details": "",
+    "Stage": "Site work, Temp Works, Change control",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 716,
+    "ScenarioID": 19,
+    "Title": "Use of permit to work system to control access in to shaft.",
+    "Details": "",
+    "Stage": "Site work, Temp Works, Change control",
+    "Type": "Inform"
+  },
+  {
+    "Id": 717,
+    "ScenarioID": 19,
+    "Title": "Display warning signage to prevent falls from height through guarding of shaft.",
+    "Details": "",
+    "Stage": "Site work, Temp Works, Change control",
+    "Type": "Inform"
+  },
+  {
+    "Id": 718,
+    "ScenarioID": 19,
+    "Title": "Supervise and control all removals alterations to lift shaft protection at all levels.",
+    "Details": "",
+    "Stage": "Site work, Temp Works, Change control",
+    "Type": "Inform"
+  },
+  {
+    "Id": 595,
+    "ScenarioID": 27,
+    "Title": "Reduce soft landscaping to limit the exposure pathway",
+    "Details": "",
+    "Stage": "Detail Design",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 596,
+    "ScenarioID": 27,
+    "Title": "Consider cantilevered ground beam to limit contamination exposure",
+    "Details": "",
+    "Stage": "Detail Design",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 597,
+    "ScenarioID": 27,
+    "Title": "Consider applying non-intrusive encapsulation to any contaminated sheet",
+    "Details": "",
+    "Stage": "Detail Design",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 600,
+    "ScenarioID": 27,
+    "Title": "Consider use of vacuum excavation to limit exposure",
+    "Details": "",
+    "Stage": "Detail Design",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 601,
+    "ScenarioID": 27,
+    "Title": "Look at potential people at risk and type and severity of exposure to inform construction work",
+    "Details": "",
+    "Stage": "Detail Design",
+    "Type": "Inform"
+  },
+  {
+    "Id": 698,
+    "ScenarioID": 27,
+    "Title": "Specify suitable membranes to prevent exposure",
+    "Details": "",
+    "Stage": "Detail Design",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 699,
+    "ScenarioID": 27,
+    "Title": "Ensure suitable space for stockpiling contaminated material",
+    "Details": "",
+    "Stage": "Detail Design",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 603,
+    "ScenarioID": 27,
+    "Title": "Ensure that competent advice is obtained to inform appropriate remediation measures and if any works should be carried out by a specialist contractor.",
+    "Details": "",
+    "Stage": "Pre construction",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 604,
+    "ScenarioID": 27,
+    "Title": "Design suitable exclusion zones on site and specify within the construction phase plan",
+    "Details": "",
+    "Stage": "Pre construction",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 605,
+    "ScenarioID": 27,
+    "Title": "Ensure there is a thorough induction and emergency procedures for inadvertent discovery of any contaminates",
+    "Details": "",
+    "Stage": "Pre construction",
+    "Type": "Inform"
+  },
+  {
+    "Id": 586,
+    "ScenarioID": 27,
+    "Title": "Design piled foundations.",
+    "Details": "",
+    "Stage": "Preliminary Design",
+    "Type": "Eliminate"
+  },
+  {
+    "Id": 587,
+    "ScenarioID": 27,
+    "Title": "Encapsulate with foundation design.",
+    "Details": "",
+    "Stage": "Preliminary Design",
+    "Type": "Eliminate"
+  },
+  {
+    "Id": 588,
+    "ScenarioID": 27,
+    "Title": "Consider options for contamination removal or treatment to enable the project work to continue without risk",
+    "Details": "",
+    "Stage": "Preliminary Design",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 590,
+    "ScenarioID": 27,
+    "Title": "Create and issue pre-construction information to include contaminant findings and issue to all stakeholders.",
+    "Details": "",
+    "Stage": "Preliminary Design",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 592,
+    "ScenarioID": 27,
+    "Title": "Design a remediation strategy for the treatment or removal of asbestos.",
+    "Details": "",
+    "Stage": "Preliminary Design",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 593,
+    "ScenarioID": 27,
+    "Title": "Consider routes of underground services to avoid contaminated areas. (location and depth)",
+    "Details": "",
+    "Stage": "Preliminary Design",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 594,
+    "ScenarioID": 27,
+    "Title": "Design review to review impacts of any discovery of contaminants and how to manage communications with the client",
+    "Details": "",
+    "Stage": "Preliminary Design",
+    "Type": "Inform"
+  },
+  {
+    "Id": 679,
+    "ScenarioID": 27,
+    "Title": "Work with the topography to reduce the amount of excavation",
+    "Details": "",
+    "Stage": "Preliminary Design",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 606,
+    "ScenarioID": 27,
+    "Title": "Use approve techniques to control dust when carrying out work",
+    "Details": "",
+    "Stage": "Site work, Temp Works, Change control",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 607,
+    "ScenarioID": 27,
+    "Title": "Protect stock piles with polythene sheeting or a mini-enclosure",
+    "Details": "",
+    "Stage": "Site work, Temp Works, Change control",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 608,
+    "ScenarioID": 27,
+    "Title": "Ensure vehicles wheels are thoroughly washed before leaving site",
+    "Details": "",
+    "Stage": "Site work, Temp Works, Change control",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 610,
+    "ScenarioID": 27,
+    "Title": "Seal the area to restrict access of unauthorised people",
+    "Details": "",
+    "Stage": "Site work, Temp Works, Change control",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 611,
+    "ScenarioID": 27,
+    "Title": "Ensure watching brief is undertaken whilst excavations are being undertaken.",
+    "Details": "",
+    "Stage": "Site work, Temp Works, Change control",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 612,
+    "ScenarioID": 27,
+    "Title": "Update information in the health and safety file and highlight possible residual risk",
+    "Details": "",
+    "Stage": "Site work, Temp Works, Change control",
+    "Type": "Inform"
+  },
+  {
+    "Id": 613,
+    "ScenarioID": 27,
+    "Title": "Ensure suitable and sufficient PPE is specified through risk assessment",
+    "Details": "",
+    "Stage": "Site work, Temp Works, Change control",
+    "Type": "Inform"
+  },
+  {
+    "Id": 870,
+    "ScenarioID": 28,
+    "Title": "Design out high level mechanical services",
+    "Details": "",
+    "Stage": "Preliminary Design",
+    "Type": "Eliminate"
+  },
+  {
+    "Id": 871,
+    "ScenarioID": 28,
+    "Title": "Group services together to avoid repeated working at height",
+    "Details": "",
+    "Stage": "Preliminary Design",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 872,
+    "ScenarioID": 28,
+    "Title": "Design the building to be passive to reduce the requirement for mechanical services",
+    "Details": "",
+    "Stage": "Preliminary Design",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 873,
+    "ScenarioID": 28,
+    "Title": "Select mechanical services that can be mechanically lowered to access at floor level",
+    "Details": "",
+    "Stage": "Preliminary Design",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 874,
+    "ScenarioID": 28,
+    "Title": "Provide adequate working space within void areas",
+    "Details": "",
+    "Stage": "Preliminary Design",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 875,
+    "ScenarioID": 28,
+    "Title": "Avoid situating mechanical services next to a significant drop, such as stairwells",
+    "Details": "",
+    "Stage": "Preliminary Design",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 876,
+    "ScenarioID": 28,
+    "Title": "Design mechanical services above flat, level, sufficiently loadbearing ground/ floors",
+    "Details": "",
+    "Stage": "Preliminary Design",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 877,
+    "ScenarioID": 28,
+    "Title": "Specify MEP that has minimal maintenance requirements",
+    "Details": "",
+    "Stage": "Detail Design",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 878,
+    "ScenarioID": 28,
+    "Title": "Design in access panels for maintainable parts, ensuring minimal space standards are met",
+    "Details": "",
+    "Stage": "Detail Design",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 879,
+    "ScenarioID": 28,
+    "Title": "Consider technological solutions to limit working at height",
+    "Details": "",
+    "Stage": "Detail Design",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 880,
+    "ScenarioID": 28,
+    "Title": "Consider MEP that is sectional, to limit manual handling requirements at height",
+    "Details": "",
+    "Stage": "Detail Design",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 881,
+    "ScenarioID": 28,
+    "Title": "Ensure adequate lighting",
+    "Details": "",
+    "Stage": "Detail Design",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 882,
+    "ScenarioID": 28,
+    "Title": "Verify tracking for MEWP and access equipment, to ensure requirements are met",
+    "Details": "",
+    "Stage": "Detail Design",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 883,
+    "ScenarioID": 28,
+    "Title": "Provide floor/ ground loading capacities",
+    "Details": "",
+    "Stage": "Detail Design",
+    "Type": "Inform"
+  },
+  {
+    "Id": 884,
+    "ScenarioID": 28,
+    "Title": "Specify access strategy including location of access panels",
+    "Details": "",
+    "Stage": "Detail Design",
+    "Type": "Inform"
+  },
+  {
+    "Id": 885,
+    "ScenarioID": 28,
+    "Title": "Provide frequency of maintenance, for different equipment.",
+    "Details": "",
+    "Stage": "Detail Design",
+    "Type": "Inform"
+  },
+  {
+    "Id": 886,
+    "ScenarioID": 28,
+    "Title": "Provide buildings O&M's and H&S File",
+    "Details": "",
+    "Stage": "Pre construction",
+    "Type": "Inform"
+  },
+  {
+    "Id": 887,
+    "ScenarioID": 28,
+    "Title": "Carry out risk assessment and select appropriate type of MEWP to avoid over reaching or climbing out of platform",
+    "Details": "",
+    "Stage": "Site work, Temp Works, Change control",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 888,
+    "ScenarioID": 28,
+    "Title": "Use permit to work system",
+    "Details": "",
+    "Stage": "Site work, Temp Works, Change control",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 889,
+    "ScenarioID": 28,
+    "Title": "Where necessary use harnesses attached to anchor point on MEWP",
+    "Details": "",
+    "Stage": "Site work, Temp Works, Change control",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 890,
+    "ScenarioID": 28,
+    "Title": "Ensure operatives are competent and trained",
+    "Details": "",
+    "Stage": "Site work, Temp Works, Change control",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 891,
+    "ScenarioID": 28,
+    "Title": "Ensure work equipment is inspected in accordance with LOLER and PUWER",
+    "Details": "",
+    "Stage": "Site work, Temp Works, Change control",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 892,
+    "ScenarioID": 28,
+    "Title": "Feedback on any obstructions / difficulties",
+    "Details": "",
+    "Stage": "Site work, Temp Works, Change control",
+    "Type": "Inform"
+  },
+  {
+    "Id": 893,
+    "ScenarioID": 28,
+    "Title": "Consider using optic fibre solutions that eliminate light fittings at high levels",
+    "Details": "",
+    "Stage": "Detail Design",
+    "Type": "Eliminate"
+  },
+  {
+    "Id": 463,
+    "ScenarioID": 34,
+    "Title": "Consider new alternative equipment with less noise",
+    "Details": "",
+    "Stage": "Detail Design",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 464,
+    "ScenarioID": 34,
+    "Title": "Design Plant rooms with acoustic enclosure",
+    "Details": "",
+    "Stage": "Detail Design",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 465,
+    "ScenarioID": 34,
+    "Title": "Select Plant that includes acoustic enclosure and anti-vibration mounts",
+    "Details": "",
+    "Stage": "Detail Design",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 466,
+    "ScenarioID": 34,
+    "Title": "Select Plant to meet atmospheric noise limits",
+    "Details": "",
+    "Stage": "Detail Design",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 467,
+    "ScenarioID": 34,
+    "Title": "Consider use of mobile noise screens to protect workers from noisy areas",
+    "Details": "",
+    "Stage": "Pre construction",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 462,
+    "ScenarioID": 34,
+    "Title": "Acoustic specialist to carry out risk study to understand best options to reducing noise in the plant room by design",
+    "Details": "",
+    "Stage": "Preliminary Design",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 857,
+    "ScenarioID": 34,
+    "Title": "Design passive elements to the building to reduce the requirement for MEP",
+    "Details": "",
+    "Stage": "Preliminary Design",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 858,
+    "ScenarioID": 34,
+    "Title": "Increase space between plant to reduce exposure to multiple sources of noise.",
+    "Details": "",
+    "Stage": "Detail Design",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 859,
+    "ScenarioID": 34,
+    "Title": "Consider increasing volume in plant enclosure by ceiling height / area or louvers to dissipate noise.",
+    "Details": "",
+    "Stage": "Detail Design",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 860,
+    "ScenarioID": 34,
+    "Title": "Provide detailed design / specifications for MEP, highlighting any equipment with high noise levels.",
+    "Details": "",
+    "Stage": "Detail Design",
+    "Type": "Inform"
+  },
+  {
+    "Id": 861,
+    "ScenarioID": 34,
+    "Title": "Warning signage to be specified and installed to ensure hazard is identified in the permanent state.",
+    "Details": "",
+    "Stage": "Detail Design",
+    "Type": "Inform"
+  },
+  {
+    "Id": 862,
+    "ScenarioID": 34,
+    "Title": "Provide information on maintenance requirements / frequency of maintenance etc.",
+    "Details": "",
+    "Stage": "Pre construction",
+    "Type": "Inform"
+  },
+  {
+    "Id": 863,
+    "ScenarioID": 34,
+    "Title": "Information on hazard to be included in the health and safety file",
+    "Details": "",
+    "Stage": "Pre construction",
+    "Type": "Inform"
+  },
+  {
+    "Id": 864,
+    "ScenarioID": 34,
+    "Title": "Shared working to ensure noise exposure is limited.",
+    "Details": "",
+    "Stage": "Site work, Temp Works, Change control",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 865,
+    "ScenarioID": 34,
+    "Title": "Health screening to be in place to identify those with any existing hearing conditions.",
+    "Details": "",
+    "Stage": "Site work, Temp Works, Change control",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 866,
+    "ScenarioID": 34,
+    "Title": "Permit to work to be in place for high risk areas.",
+    "Details": "",
+    "Stage": "Site work, Temp Works, Change control",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 867,
+    "ScenarioID": 34,
+    "Title": "Risk and method statements for work activities.",
+    "Details": "",
+    "Stage": "Site work, Temp Works, Change control",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 868,
+    "ScenarioID": 34,
+    "Title": "PPE to be provided",
+    "Details": "",
+    "Stage": "Site work, Temp Works, Change control",
+    "Type": "Inform"
+  },
+  {
+    "Id": 869,
+    "ScenarioID": 34,
+    "Title": "On-going health surveillance of operatives",
+    "Details": "",
+    "Stage": "Site work, Temp Works, Change control",
+    "Type": "Inform"
+  },
+  {
+    "Id": 838,
+    "ScenarioID": 40,
+    "Title": "Avoid the need for accessing the roof.",
+    "Details": "",
+    "Stage": "Preliminary Design",
+    "Type": "Eliminate"
+  },
+  {
+    "Id": 839,
+    "ScenarioID": 40,
+    "Title": "Design out the use of fragile materials.",
+    "Details": "",
+    "Stage": "Preliminary Design",
+    "Type": "Eliminate"
+  },
+  {
+    "Id": 840,
+    "ScenarioID": 40,
+    "Title": "Glass to be specified to class 2 standard.",
+    "Details": "",
+    "Stage": "Preliminary Design",
+    "Type": "Eliminate"
+  },
+  {
+    "Id": 841,
+    "ScenarioID": 40,
+    "Title": "Consider over cladding/ under cladding fragile materials.",
+    "Details": "",
+    "Stage": "Preliminary Design",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 842,
+    "ScenarioID": 40,
+    "Title": "Replace fragile materials with the non fragile.",
+    "Details": "",
+    "Stage": "Preliminary Design",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 843,
+    "ScenarioID": 40,
+    "Title": "Provide information for roof structure and maximum load bearing capacity of elements.",
+    "Details": "",
+    "Stage": "Preliminary Design",
+    "Type": "Inform"
+  },
+  {
+    "Id": 844,
+    "ScenarioID": 40,
+    "Title": "Provide sizes and locations of structural elements.",
+    "Details": "",
+    "Stage": "Preliminary Design",
+    "Type": "Inform"
+  },
+  {
+    "Id": 845,
+    "ScenarioID": 40,
+    "Title": "Provide access gantry or similar to enable safe access.",
+    "Details": "",
+    "Stage": "Detail Design",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 846,
+    "ScenarioID": 40,
+    "Title": "Provide guarding around fragile areas.",
+    "Details": "",
+    "Stage": "Detail Design",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 847,
+    "ScenarioID": 40,
+    "Title": "Provide horizontal fixed line system, to restrict access to fragile materials.",
+    "Details": "",
+    "Stage": "Detail Design",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 848,
+    "ScenarioID": 40,
+    "Title": "Design skylight to be replaced from below, using a MEWP",
+    "Details": "",
+    "Stage": "Detail Design",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 849,
+    "ScenarioID": 40,
+    "Title": "Provide signage for fragile roof/ materials.",
+    "Details": "",
+    "Stage": "Detail Design",
+    "Type": "Inform"
+  },
+  {
+    "Id": 850,
+    "ScenarioID": 40,
+    "Title": "If work on roof cannot be avoided, fix safety nets or crash decks below all fragile materials",
+    "Details": "",
+    "Stage": "Pre construction",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 851,
+    "ScenarioID": 40,
+    "Title": "Contractors to be consulted on presence of fragile roof materials and safe working methods.",
+    "Details": "",
+    "Stage": "Pre construction",
+    "Type": "Inform"
+  },
+  {
+    "Id": 852,
+    "ScenarioID": 40,
+    "Title": "Cover fragile materials to provide safe access.",
+    "Details": "",
+    "Stage": "Site work, Temp Works, Change control",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 853,
+    "ScenarioID": 40,
+    "Title": "Use crawler boards to gain access over a fragile material, with proprietry edge protection fitted.",
+    "Details": "",
+    "Stage": "Site work, Temp Works, Change control",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 854,
+    "ScenarioID": 40,
+    "Title": "Prevent unautherised access onto fragile areas.",
+    "Details": "",
+    "Stage": "Site work, Temp Works, Change control",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 855,
+    "ScenarioID": 40,
+    "Title": "Manage access through a Permit to Work system.",
+    "Details": "",
+    "Stage": "Site work, Temp Works, Change control",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 856,
+    "ScenarioID": 40,
+    "Title": "Obtain handover documentation and inspection records of safety net/ crash deck systems.",
+    "Details": "",
+    "Stage": "Site work, Temp Works, Change control",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 439,
+    "ScenarioID": 43,
+    "Title": "Consider applying non-intrusive encapsulation to any contaminated sheet",
+    "Details": "",
+    "Stage": "Detail Design",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 440,
+    "ScenarioID": 43,
+    "Title": "Look at potential people at risk and type and severity of exposure to inform construction work",
+    "Details": "",
+    "Stage": "Detail Design",
+    "Type": "Inform"
+  },
+  {
+    "Id": 566,
+    "ScenarioID": 43,
+    "Title": "Reduce soft landscaping to limit the exposure pathway",
+    "Details": "",
+    "Stage": "Detail Design",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 567,
+    "ScenarioID": 43,
+    "Title": "Consider cantilevered ground beam to limit contamination exposure",
+    "Details": "",
+    "Stage": "Detail Design",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 568,
+    "ScenarioID": 43,
+    "Title": "Specify suitable membranes to prevent exposure",
+    "Details": "",
+    "Stage": "Detail Design",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 570,
+    "ScenarioID": 43,
+    "Title": "Highlight risk in pre-construction information of identifying those at risk, type and severity of exposure to inform construction work",
+    "Details": "",
+    "Stage": "Detail Design",
+    "Type": "Inform"
+  },
+  {
+    "Id": 695,
+    "ScenarioID": 43,
+    "Title": "Design review on impacts of any discovery of asbestos and how to manage communications with the client",
+    "Details": "",
+    "Stage": "Detail Design",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 696,
+    "ScenarioID": 43,
+    "Title": "Ensure suitable space for stockpiling contaminated material",
+    "Details": "",
+    "Stage": "Detail Design",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 697,
+    "ScenarioID": 43,
+    "Title": "Consider use of vacuum excavation to limit exposure",
+    "Details": "",
+    "Stage": "Detail Design",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 572,
+    "ScenarioID": 43,
+    "Title": "Ensure that competent advice is obtained to inform appropriate remediation measures and if any works should be carried out by a licenced contractor.",
+    "Details": "",
+    "Stage": "Pre construction",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 575,
+    "ScenarioID": 43,
+    "Title": "Design suitable exclusion zones on site and specify within the construction phase plan",
+    "Details": "",
+    "Stage": "Pre construction",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 579,
+    "ScenarioID": 43,
+    "Title": "Ensure there is a thorough induction and emergency procedures for inadvertent discovery of asbestos",
+    "Details": "",
+    "Stage": "Pre construction",
+    "Type": "Inform"
+  },
+  {
+    "Id": 557,
+    "ScenarioID": 43,
+    "Title": "Design piled foundations.",
+    "Details": "",
+    "Stage": "Preliminary Design",
+    "Type": "Eliminate"
+  },
+  {
+    "Id": 558,
+    "ScenarioID": 43,
+    "Title": "Encapsulate with foundation design.",
+    "Details": "",
+    "Stage": "Preliminary Design",
+    "Type": "Eliminate"
+  },
+  {
+    "Id": 560,
+    "ScenarioID": 43,
+    "Title": "Carry out a refurbishment and demolition (R&D) survey prior to construction work",
+    "Details": "",
+    "Stage": "Preliminary Design",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 561,
+    "ScenarioID": 43,
+    "Title": "Create and issue pre-construction information to include asbestos findings and issue to all stakeholders.",
+    "Details": "",
+    "Stage": "Preliminary Design",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 562,
+    "ScenarioID": 43,
+    "Title": "Evaluate the type of asbestos present to decide on appropriate remediation methods",
+    "Details": "",
+    "Stage": "Preliminary Design",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 563,
+    "ScenarioID": 43,
+    "Title": "Design a remediation strategy for the treatment or removal of asbestos.",
+    "Details": "",
+    "Stage": "Preliminary Design",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 564,
+    "ScenarioID": 43,
+    "Title": "Consider routes of underground services to avoid contaminated areas. (location and depth)",
+    "Details": "",
+    "Stage": "Preliminary Design",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 565,
+    "ScenarioID": 43,
+    "Title": "Design review to review impacts of any discovery of asbestos and how to manage communications with the client",
+    "Details": "",
+    "Stage": "Preliminary Design",
+    "Type": "Inform"
+  },
+  {
+    "Id": 694,
+    "ScenarioID": 43,
+    "Title": "Consider options for asbestos removal or treatment to enable project work to continue without risk",
+    "Details": "",
+    "Stage": "Preliminary Design",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 576,
+    "ScenarioID": 43,
+    "Title": "Seal the area to restrict access of unauthorised people",
+    "Details": "",
+    "Stage": "Site work, Temp Works, Change control",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 580,
+    "ScenarioID": 43,
+    "Title": "Use approve techniques to control dust when carrying out work",
+    "Details": "",
+    "Stage": "Site work, Temp Works, Change control",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 581,
+    "ScenarioID": 43,
+    "Title": "Protect stock piles with polythene sheeting or a mini-enclosure",
+    "Details": "",
+    "Stage": "Site work, Temp Works, Change control",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 582,
+    "ScenarioID": 43,
+    "Title": "Ensure vehicles wheels are thoroughly washed before leaving site",
+    "Details": "",
+    "Stage": "Site work, Temp Works, Change control",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 583,
+    "ScenarioID": 43,
+    "Title": "Ensure watching brief is undertaken whilst excavations are being undertaken.",
+    "Details": "",
+    "Stage": "Site work, Temp Works, Change control",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 584,
+    "ScenarioID": 43,
+    "Title": "Update information in the health and safety file and highlight possible residual risk",
+    "Details": "",
+    "Stage": "Site work, Temp Works, Change control",
+    "Type": "Inform"
+  },
+  {
+    "Id": 585,
+    "ScenarioID": 43,
+    "Title": "Ensure suitable and sufficient PPE is specified through risk assessment",
+    "Details": "",
+    "Stage": "Site work, Temp Works, Change control",
+    "Type": "Inform"
+  },
+  {
+    "Id": 1148,
+    "ScenarioID": 50,
+    "Title": "Design building components to be in manageable loads.",
+    "Details": "",
+    "Stage": "Preliminary Design",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 1149,
+    "ScenarioID": 50,
+    "Title": "Identify areas of suitable ground bearing capacity to utilise the crane and it's load.",
+    "Details": "",
+    "Stage": "Preliminary Design",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 1150,
+    "ScenarioID": 50,
+    "Title": "Early coordination of crane bases giving early  consideration of implementation into permanent works.",
+    "Details": "",
+    "Stage": "Preliminary Design",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 1151,
+    "ScenarioID": 50,
+    "Title": "Design crane strategy to avoid using maximum jib length use.",
+    "Details": "",
+    "Stage": "Preliminary Design",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 1152,
+    "ScenarioID": 50,
+    "Title": "give consideration to alternative use of other lifting methods such as mast climbers.",
+    "Details": "",
+    "Stage": "Preliminary Design",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 1153,
+    "ScenarioID": 50,
+    "Title": "Anticipated loads to be communicated on specifications and drawings.",
+    "Details": "",
+    "Stage": "Preliminary Design",
+    "Type": "Inform"
+  },
+  {
+    "Id": 1154,
+    "ScenarioID": 50,
+    "Title": "Information for the topographical survey of the site to be provided.",
+    "Details": "",
+    "Stage": "Preliminary Design",
+    "Type": "Inform"
+  },
+  {
+    "Id": 1155,
+    "ScenarioID": 50,
+    "Title": "Ensure a stage two site investigation is completed and available for project team.",
+    "Details": "",
+    "Stage": "Preliminary Design",
+    "Type": "Inform"
+  },
+  {
+    "Id": 1156,
+    "ScenarioID": 50,
+    "Title": "Provide temporary works design assumptions.",
+    "Details": "",
+    "Stage": "Preliminary Design",
+    "Type": "Inform"
+  },
+  {
+    "Id": 1157,
+    "ScenarioID": 50,
+    "Title": "Coordination with construction strategy/ phasing",
+    "Details": "",
+    "Stage": "Detail Design",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 1158,
+    "ScenarioID": 50,
+    "Title": "Limit component sizes in design where possible.",
+    "Details": "",
+    "Stage": "Detail Design",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 1159,
+    "ScenarioID": 50,
+    "Title": "Consideration of crane ties to main superstructure.",
+    "Details": "",
+    "Stage": "Detail Design",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 1160,
+    "ScenarioID": 50,
+    "Title": "Consideration of the site logistics and crane set up and removal.",
+    "Details": "",
+    "Stage": "Detail Design",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 1161,
+    "ScenarioID": 50,
+    "Title": "Design in lifting eyes to simplify lifting.",
+    "Details": "",
+    "Stage": "Detail Design",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 1162,
+    "ScenarioID": 50,
+    "Title": "Confirmed loads communicated on specifications and drawings.",
+    "Details": "",
+    "Stage": "Detail Design",
+    "Type": "Inform"
+  },
+  {
+    "Id": 1163,
+    "ScenarioID": 50,
+    "Title": "Ensure temporary works design brief is created and provide to the design team.",
+    "Details": "",
+    "Stage": "Detail Design",
+    "Type": "Inform"
+  },
+  {
+    "Id": 1164,
+    "ScenarioID": 50,
+    "Title": "Logistics plan to be fully designed and coordinated.",
+    "Details": "",
+    "Stage": "Pre construction",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 1165,
+    "ScenarioID": 50,
+    "Title": "Lift plan, including emergency plan to be fully designed and coordinated.",
+    "Details": "",
+    "Stage": "Pre construction",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 1166,
+    "ScenarioID": 50,
+    "Title": "Confirm structural requirements and maximum lift weights.",
+    "Details": "",
+    "Stage": "Pre construction",
+    "Type": "Inform"
+  },
+  {
+    "Id": 1167,
+    "ScenarioID": 50,
+    "Title": "Check crane statutory certification for lifting equipment and accessories.",
+    "Details": "",
+    "Stage": "Site work, Temp Works, Change control",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 1168,
+    "ScenarioID": 50,
+    "Title": "Permit to lift to be in operation.",
+    "Details": "",
+    "Stage": "Site work, Temp Works, Change control",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 1169,
+    "ScenarioID": 50,
+    "Title": "Pre-test of crane, alarms and safety systems to be implemented and recorded.",
+    "Details": "",
+    "Stage": "Site work, Temp Works, Change control",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 1170,
+    "ScenarioID": 50,
+    "Title": "Competent operatives only using the equipment.",
+    "Details": "",
+    "Stage": "Site work, Temp Works, Change control",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 1171,
+    "ScenarioID": 50,
+    "Title": "ensure the correct disassembly / demounting of crane is followed.",
+    "Details": "",
+    "Stage": "Site work, Temp Works, Change control",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 1172,
+    "ScenarioID": 50,
+    "Title": "Components with unknown dimensions, weights or centres of gravity to be assessed.",
+    "Details": "",
+    "Stage": "Site work, Temp Works, Change control",
+    "Type": "Inform"
+  },
+  {
+    "Id": 1173,
+    "ScenarioID": 50,
+    "Title": "Agreed crane locations to be identified on drawings for possible future lifts.",
+    "Details": "",
+    "Stage": "Site work, Temp Works, Change control",
+    "Type": "Inform"
+  },
+  {
+    "Id": 1174,
+    "ScenarioID": 51,
+    "Title": "Structural survey of existing buildings to inform demolition plan.",
+    "Details": "",
+    "Stage": "Preliminary Design",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 1175,
+    "ScenarioID": 51,
+    "Title": "Stage 2 ground investigations inform demolition plan.",
+    "Details": "",
+    "Stage": "Preliminary Design",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 1176,
+    "ScenarioID": 51,
+    "Title": "Demolition sequence to be informed by designers.",
+    "Details": "",
+    "Stage": "Preliminary Design",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 1177,
+    "ScenarioID": 51,
+    "Title": "Consider piece meal demolition method to limit risk.",
+    "Details": "",
+    "Stage": "Preliminary Design",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 1178,
+    "ScenarioID": 51,
+    "Title": "Loadbearing capacity of existing structures to be informed by structural engineer and existing building information.",
+    "Details": "",
+    "Stage": "Preliminary Design",
+    "Type": "Inform"
+  },
+  {
+    "Id": 1179,
+    "ScenarioID": 51,
+    "Title": "Identify any party wall requirements.",
+    "Details": "",
+    "Stage": "Preliminary Design",
+    "Type": "Inform"
+  },
+  {
+    "Id": 1180,
+    "ScenarioID": 51,
+    "Title": "Identify any connecting structures.",
+    "Details": "",
+    "Stage": "Preliminary Design",
+    "Type": "Inform"
+  },
+  {
+    "Id": 1181,
+    "ScenarioID": 51,
+    "Title": "temporary works assumptions to be communicated.",
+    "Details": "",
+    "Stage": "Preliminary Design",
+    "Type": "Inform"
+  },
+  {
+    "Id": 1182,
+    "ScenarioID": 51,
+    "Title": "Temporary works design brief to be coordinated and communicated to the design team.",
+    "Details": "",
+    "Stage": "Detail Design",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 1183,
+    "ScenarioID": 51,
+    "Title": "Identify and confirm any structural support required throughout the demolition process.",
+    "Details": "",
+    "Stage": "Detail Design",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 1184,
+    "ScenarioID": 51,
+    "Title": "Review sequencing of the installation and removal of temporary works.",
+    "Details": "",
+    "Stage": "Detail Design",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 1185,
+    "ScenarioID": 51,
+    "Title": "Review sequencing of demolition in line with structural support requirements.",
+    "Details": "",
+    "Stage": "Detail Design",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 1186,
+    "ScenarioID": 51,
+    "Title": "Give consideration to any permanent works in the temporary state, during demolition.",
+    "Details": "",
+    "Stage": "Detail Design",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 1187,
+    "ScenarioID": 51,
+    "Title": "Consideration of site logistics to accommodate demolition methods",
+    "Details": "",
+    "Stage": "Detail Design",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 1188,
+    "ScenarioID": 51,
+    "Title": "Consideration of monitoring devices and watching briefs",
+    "Details": "",
+    "Stage": "Detail Design",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 1189,
+    "ScenarioID": 51,
+    "Title": "Inform demolition methods and process",
+    "Details": "",
+    "Stage": "Detail Design",
+    "Type": "Inform"
+  },
+  {
+    "Id": 1190,
+    "ScenarioID": 51,
+    "Title": "Inform the structural support requirements.",
+    "Details": "",
+    "Stage": "Detail Design",
+    "Type": "Inform"
+  },
+  {
+    "Id": 1191,
+    "ScenarioID": 51,
+    "Title": "Identify plant exclusion and no dig zones in relation to existing structures.",
+    "Details": "",
+    "Stage": "Pre construction",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 1192,
+    "ScenarioID": 51,
+    "Title": "Written demolition plan to be in place.",
+    "Details": "",
+    "Stage": "Pre construction",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 1193,
+    "ScenarioID": 51,
+    "Title": "Inform site logistics to accommodate demolition methods",
+    "Details": "",
+    "Stage": "Pre construction",
+    "Type": "Inform"
+  },
+  {
+    "Id": 1194,
+    "ScenarioID": 51,
+    "Title": "Temporary works installation to be completed in accordance with the design",
+    "Details": "",
+    "Stage": "Site work, Temp Works, Change control",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 1195,
+    "ScenarioID": 51,
+    "Title": "Works to be completed in accordance with the demolition plan and specified methodologies.",
+    "Details": "",
+    "Stage": "Site work, Temp Works, Change control",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 1196,
+    "ScenarioID": 51,
+    "Title": "Ongoing structural condition checks for retained or effected structures",
+    "Details": "",
+    "Stage": "Site work, Temp Works, Change control",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 1197,
+    "ScenarioID": 51,
+    "Title": "Equipment to be managed in accordance with LOLER and PUWER",
+    "Details": "",
+    "Stage": "Site work, Temp Works, Change control",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 1198,
+    "ScenarioID": 51,
+    "Title": "Any movement monitoring or watching brief to be completed as planned.",
+    "Details": "",
+    "Stage": "Site work, Temp Works, Change control",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 1199,
+    "ScenarioID": 51,
+    "Title": "Monitor the environmental conditions during demolition activities.",
+    "Details": "",
+    "Stage": "Site work, Temp Works, Change control",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 1200,
+    "ScenarioID": 51,
+    "Title": "Secondary design checks prior to removal of temporary works, for permission to load/ strike.",
+    "Details": "",
+    "Stage": "Site work, Temp Works, Change control",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 1201,
+    "ScenarioID": 51,
+    "Title": "Inform of any residual temporary works remaining in-situ.",
+    "Details": "",
+    "Stage": "Site work, Temp Works, Change control",
+    "Type": "Inform"
+  },
+  {
+    "Id": 1202,
+    "ScenarioID": 51,
+    "Title": "Update drawings with relevant information.",
+    "Details": "",
+    "Stage": "Site work, Temp Works, Change control",
+    "Type": "Inform"
+  },
+  {
+    "Id": 1203,
+    "ScenarioID": 52,
+    "Title": "Structural survey of existing buildings to inform demolition plan.",
+    "Details": "",
+    "Stage": "Preliminary Design",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 1204,
+    "ScenarioID": 52,
+    "Title": "Stage 2 ground investigations inform demolition plan.",
+    "Details": "",
+    "Stage": "Preliminary Design",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 1205,
+    "ScenarioID": 52,
+    "Title": "Demolition sequence to be informed by designers.",
+    "Details": "",
+    "Stage": "Preliminary Design",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 1206,
+    "ScenarioID": 52,
+    "Title": "Consider piece meal demolition method to limit risk.",
+    "Details": "",
+    "Stage": "Preliminary Design",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 1207,
+    "ScenarioID": 52,
+    "Title": "Loadbearing capacity of existing structures to be informed by structural engineer and existing building information.",
+    "Details": "",
+    "Stage": "Preliminary Design",
+    "Type": "Inform"
+  },
+  {
+    "Id": 1208,
+    "ScenarioID": 52,
+    "Title": "Identify any party wall requirements.",
+    "Details": "",
+    "Stage": "Preliminary Design",
+    "Type": "Inform"
+  },
+  {
+    "Id": 1209,
+    "ScenarioID": 52,
+    "Title": "Identify any connecting structures.",
+    "Details": "",
+    "Stage": "Preliminary Design",
+    "Type": "Inform"
+  },
+  {
+    "Id": 1210,
+    "ScenarioID": 52,
+    "Title": "temporary works assumptions to be communicated.",
+    "Details": "",
+    "Stage": "Preliminary Design",
+    "Type": "Inform"
+  },
+  {
+    "Id": 1211,
+    "ScenarioID": 52,
+    "Title": "Temporary works design brief to be coordinated and communicated to the design team.",
+    "Details": "",
+    "Stage": "Detail Design",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 1212,
+    "ScenarioID": 52,
+    "Title": "Identify and confirm any structural support required throughout the demolition process.",
+    "Details": "",
+    "Stage": "Detail Design",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 1213,
+    "ScenarioID": 52,
+    "Title": "Review sequencing of the installation and removal of temporary works.",
+    "Details": "",
+    "Stage": "Detail Design",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 1214,
+    "ScenarioID": 52,
+    "Title": "Review sequencing of demolition in line with structural support requirements.",
+    "Details": "",
+    "Stage": "Detail Design",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 1215,
+    "ScenarioID": 52,
+    "Title": "Give consideration to any permanent works in the temporary state, during demolition.",
+    "Details": "",
+    "Stage": "Detail Design",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 1216,
+    "ScenarioID": 52,
+    "Title": "Consideration of site logistics to accommodate demolition methods",
+    "Details": "",
+    "Stage": "Detail Design",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 1217,
+    "ScenarioID": 52,
+    "Title": "Consideration of monitoring devices and watching briefs",
+    "Details": "",
+    "Stage": "Detail Design",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 1218,
+    "ScenarioID": 52,
+    "Title": "Inform demolition methods and process",
+    "Details": "",
+    "Stage": "Detail Design",
+    "Type": "Inform"
+  },
+  {
+    "Id": 1219,
+    "ScenarioID": 52,
+    "Title": "Inform the structural support requirements.",
+    "Details": "",
+    "Stage": "Detail Design",
+    "Type": "Inform"
+  },
+  {
+    "Id": 1220,
+    "ScenarioID": 52,
+    "Title": "Identify plant exclusion and no dig zones in relation to existing structures.",
+    "Details": "",
+    "Stage": "Pre construction",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 1221,
+    "ScenarioID": 52,
+    "Title": "Written demolition plan to be in place.",
+    "Details": "",
+    "Stage": "Pre construction",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 1222,
+    "ScenarioID": 52,
+    "Title": "Inform site logistics to accommodate demolition methods",
+    "Details": "",
+    "Stage": "Pre construction",
+    "Type": "Inform"
+  },
+  {
+    "Id": 1223,
+    "ScenarioID": 52,
+    "Title": "Temporary works installation to be completed in accordance with the design",
+    "Details": "",
+    "Stage": "Site work, Temp Works, Change control",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 1224,
+    "ScenarioID": 52,
+    "Title": "Works to be completed in accordance with the demolition plan and specified methodologies.",
+    "Details": "",
+    "Stage": "Site work, Temp Works, Change control",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 1225,
+    "ScenarioID": 52,
+    "Title": "Ongoing structural condition checks for retained or effected structures",
+    "Details": "",
+    "Stage": "Site work, Temp Works, Change control",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 1226,
+    "ScenarioID": 52,
+    "Title": "Equipment to be managed in accordance with LOLER and PUWER",
+    "Details": "",
+    "Stage": "Site work, Temp Works, Change control",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 1227,
+    "ScenarioID": 52,
+    "Title": "Any movement monitoring or watching brief to be completed as planned.",
+    "Details": "",
+    "Stage": "Site work, Temp Works, Change control",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 1228,
+    "ScenarioID": 52,
+    "Title": "Monitor the environmental conditions during demolition activities.",
+    "Details": "",
+    "Stage": "Site work, Temp Works, Change control",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 1229,
+    "ScenarioID": 52,
+    "Title": "Secondary design checks prior to removal of temporary works, for permission to load/ strike.",
+    "Details": "",
+    "Stage": "Site work, Temp Works, Change control",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 1230,
+    "ScenarioID": 52,
+    "Title": "Inform of any residual temporary works remaining in-situ.",
+    "Details": "",
+    "Stage": "Site work, Temp Works, Change control",
+    "Type": "Inform"
+  },
+  {
+    "Id": 1231,
+    "ScenarioID": 52,
+    "Title": "Update drawings with relevant information.",
+    "Details": "",
+    "Stage": "Site work, Temp Works, Change control",
+    "Type": "Inform"
+  },
+  {
+    "Id": 1232,
+    "ScenarioID": 53,
+    "Title": "Design in services routes/ footings away from existing structures.",
+    "Details": "",
+    "Stage": "Preliminary Design",
+    "Type": "Eliminate"
+  },
+  {
+    "Id": 1233,
+    "ScenarioID": 53,
+    "Title": "Structural survey of existing buildings to inform areas of weakness.",
+    "Details": "",
+    "Stage": "Preliminary Design",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 1234,
+    "ScenarioID": 53,
+    "Title": "Stage 2 ground investigations inform excavation method.",
+    "Details": "",
+    "Stage": "Preliminary Design",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 1235,
+    "ScenarioID": 53,
+    "Title": "Consider staged excavation method to limit risk.",
+    "Details": "",
+    "Stage": "Preliminary Design",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 1236,
+    "ScenarioID": 53,
+    "Title": "Excavation sequence to be informed by designers.",
+    "Details": "",
+    "Stage": "Preliminary Design",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 1237,
+    "ScenarioID": 53,
+    "Title": "Consider areas where underpinning maybe required.",
+    "Details": "",
+    "Stage": "Preliminary Design",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 1238,
+    "ScenarioID": 53,
+    "Title": "Areas of structural weakness to be informed to the design team.",
+    "Details": "",
+    "Stage": "Preliminary Design",
+    "Type": "Inform"
+  },
+  {
+    "Id": 1239,
+    "ScenarioID": 53,
+    "Title": "Identify any party wall requirements.",
+    "Details": "",
+    "Stage": "Preliminary Design",
+    "Type": "Inform"
+  },
+  {
+    "Id": 1240,
+    "ScenarioID": 53,
+    "Title": "Identify any connecting structures.",
+    "Details": "",
+    "Stage": "Preliminary Design",
+    "Type": "Inform"
+  },
+  {
+    "Id": 1241,
+    "ScenarioID": 53,
+    "Title": "temporary works assumptions to be communicated.",
+    "Details": "",
+    "Stage": "Preliminary Design",
+    "Type": "Inform"
+  },
+  {
+    "Id": 1242,
+    "ScenarioID": 53,
+    "Title": "Temporary works design brief to be coordinated and communicated to the design team.",
+    "Details": "",
+    "Stage": "Detail Design",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 1243,
+    "ScenarioID": 53,
+    "Title": "Identify and confirm any structural support required prior to and throughout the excavation process.",
+    "Details": "",
+    "Stage": "Detail Design",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 1244,
+    "ScenarioID": 53,
+    "Title": "Consideration of excavation techniques to limit excavations such as directional drilling or vacuumed excavations.",
+    "Details": "",
+    "Stage": "Detail Design",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 1245,
+    "ScenarioID": 53,
+    "Title": "Review sequencing of the installation and removal of temporary works.",
+    "Details": "",
+    "Stage": "Detail Design",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 1246,
+    "ScenarioID": 53,
+    "Title": "Review sequencing of excavation in line with structural support requirements.",
+    "Details": "",
+    "Stage": "Detail Design",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 1247,
+    "ScenarioID": 53,
+    "Title": "Consideration of site logistics to accommodate excavation phasing",
+    "Details": "",
+    "Stage": "Detail Design",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 1248,
+    "ScenarioID": 53,
+    "Title": "Consideration of monitoring devices and watching briefs",
+    "Details": "",
+    "Stage": "Detail Design",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 1249,
+    "ScenarioID": 53,
+    "Title": "Inform excavation methods and process",
+    "Details": "",
+    "Stage": "Detail Design",
+    "Type": "Inform"
+  },
+  {
+    "Id": 1250,
+    "ScenarioID": 53,
+    "Title": "Inform the structural support requirements.",
+    "Details": "",
+    "Stage": "Detail Design",
+    "Type": "Inform"
+  },
+  {
+    "Id": 1251,
+    "ScenarioID": 53,
+    "Title": "Identify plant exclusion and no dig zones in relation to existing structures.",
+    "Details": "",
+    "Stage": "Pre construction",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 1252,
+    "ScenarioID": 53,
+    "Title": "Inform site logistics to accommodate excavation methods",
+    "Details": "",
+    "Stage": "Pre construction",
+    "Type": "Inform"
+  },
+  {
+    "Id": 1253,
+    "ScenarioID": 53,
+    "Title": "Temporary works installation to be completed in accordance with the design",
+    "Details": "",
+    "Stage": "Site work, Temp Works, Change control",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 1254,
+    "ScenarioID": 53,
+    "Title": "Works to be completed in accordance with the excavation design and specified methodologies.",
+    "Details": "",
+    "Stage": "Site work, Temp Works, Change control",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 1255,
+    "ScenarioID": 53,
+    "Title": "Ongoing structural condition checks for retained or effected structures",
+    "Details": "",
+    "Stage": "Site work, Temp Works, Change control",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 1256,
+    "ScenarioID": 53,
+    "Title": "Minimize the duration of any open excavations .",
+    "Details": "",
+    "Stage": "Site work, Temp Works, Change control",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 1257,
+    "ScenarioID": 53,
+    "Title": "Trial pits to confirm depths of existing structures, to inform excavation design.",
+    "Details": "",
+    "Stage": "Site work, Temp Works, Change control",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 1258,
+    "ScenarioID": 53,
+    "Title": "Equipment to be managed in accordance with LOLER and PUWER",
+    "Details": "",
+    "Stage": "Site work, Temp Works, Change control",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 1259,
+    "ScenarioID": 53,
+    "Title": "Any movement monitoring or watching brief to be completed as planned.",
+    "Details": "",
+    "Stage": "Site work, Temp Works, Change control",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 1260,
+    "ScenarioID": 53,
+    "Title": "Monitor the environmental conditions during excavation activities and mitigate where required.",
+    "Details": "",
+    "Stage": "Site work, Temp Works, Change control",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 1261,
+    "ScenarioID": 53,
+    "Title": "Secondary design checks prior to removal of temporary works, for permission to load/ strike.",
+    "Details": "",
+    "Stage": "Site work, Temp Works, Change control",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 1262,
+    "ScenarioID": 53,
+    "Title": "Update drawings with relevant information.",
+    "Details": "",
+    "Stage": "Site work, Temp Works, Change control",
+    "Type": "Inform"
+  },
+  {
+    "Id": 1263,
+    "ScenarioID": 54,
+    "Title": "Design in services routes/ footings away from existing structures.",
+    "Details": "",
+    "Stage": "Preliminary Design",
+    "Type": "Eliminate"
+  },
+  {
+    "Id": 1264,
+    "ScenarioID": 54,
+    "Title": "Structural survey of existing buildings to inform areas of weakness.",
+    "Details": "",
+    "Stage": "Preliminary Design",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 1265,
+    "ScenarioID": 54,
+    "Title": "Stage 2 ground investigations inform excavation method.",
+    "Details": "",
+    "Stage": "Preliminary Design",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 1266,
+    "ScenarioID": 54,
+    "Title": "Consider staged excavation method to limit risk.",
+    "Details": "",
+    "Stage": "Preliminary Design",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 1267,
+    "ScenarioID": 54,
+    "Title": "Excavation sequence to be informed by designers.",
+    "Details": "",
+    "Stage": "Preliminary Design",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 1268,
+    "ScenarioID": 54,
+    "Title": "Consider areas where underpinning maybe required.",
+    "Details": "",
+    "Stage": "Preliminary Design",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 1269,
+    "ScenarioID": 54,
+    "Title": "Areas of structural weakness to be informed to the design team.",
+    "Details": "",
+    "Stage": "Preliminary Design",
+    "Type": "Inform"
+  },
+  {
+    "Id": 1270,
+    "ScenarioID": 54,
+    "Title": "Identify any party wall requirements.",
+    "Details": "",
+    "Stage": "Preliminary Design",
+    "Type": "Inform"
+  },
+  {
+    "Id": 1271,
+    "ScenarioID": 54,
+    "Title": "Identify any connecting structures.",
+    "Details": "",
+    "Stage": "Preliminary Design",
+    "Type": "Inform"
+  },
+  {
+    "Id": 1272,
+    "ScenarioID": 54,
+    "Title": "temporary works assumptions to be communicated.",
+    "Details": "",
+    "Stage": "Preliminary Design",
+    "Type": "Inform"
+  },
+  {
+    "Id": 1273,
+    "ScenarioID": 54,
+    "Title": "Temporary works design brief to be coordinated and communicated to the design team.",
+    "Details": "",
+    "Stage": "Detail Design",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 1274,
+    "ScenarioID": 54,
+    "Title": "Identify and confirm any structural support required prior to and throughout the excavation process.",
+    "Details": "",
+    "Stage": "Detail Design",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 1275,
+    "ScenarioID": 54,
+    "Title": "Consideration of excavation techniques to limit excavations such as directional drilling or vacuumed excavations.",
+    "Details": "",
+    "Stage": "Detail Design",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 1276,
+    "ScenarioID": 54,
+    "Title": "Review sequencing of the installation and removal of temporary works.",
+    "Details": "",
+    "Stage": "Detail Design",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 1277,
+    "ScenarioID": 54,
+    "Title": "Review sequencing of excavation in line with structural support requirements.",
+    "Details": "",
+    "Stage": "Detail Design",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 1278,
+    "ScenarioID": 54,
+    "Title": "Consideration of site logistics to accommodate excavation phasing",
+    "Details": "",
+    "Stage": "Detail Design",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 1279,
+    "ScenarioID": 54,
+    "Title": "Consideration of monitoring devices and watching briefs",
+    "Details": "",
+    "Stage": "Detail Design",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 1280,
+    "ScenarioID": 54,
+    "Title": "Inform excavation methods and process",
+    "Details": "",
+    "Stage": "Detail Design",
+    "Type": "Inform"
+  },
+  {
+    "Id": 1281,
+    "ScenarioID": 54,
+    "Title": "Inform the structural support requirements.",
+    "Details": "",
+    "Stage": "Detail Design",
+    "Type": "Inform"
+  },
+  {
+    "Id": 1282,
+    "ScenarioID": 54,
+    "Title": "Identify plant exclusion and no dig zones in relation to existing structures.",
+    "Details": "",
+    "Stage": "Pre construction",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 1283,
+    "ScenarioID": 54,
+    "Title": "Inform site logistics to accommodate excavation methods",
+    "Details": "",
+    "Stage": "Pre construction",
+    "Type": "Inform"
+  },
+  {
+    "Id": 1284,
+    "ScenarioID": 54,
+    "Title": "Temporary works installation to be completed in accordance with the design",
+    "Details": "",
+    "Stage": "Site work, Temp Works, Change control",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 1285,
+    "ScenarioID": 54,
+    "Title": "Works to be completed in accordance with the excavation design and specified methodologies.",
+    "Details": "",
+    "Stage": "Site work, Temp Works, Change control",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 1286,
+    "ScenarioID": 54,
+    "Title": "Ongoing structural condition checks for retained or effected structures",
+    "Details": "",
+    "Stage": "Site work, Temp Works, Change control",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 1287,
+    "ScenarioID": 54,
+    "Title": "Minimize the duration of any open excavations .",
+    "Details": "",
+    "Stage": "Site work, Temp Works, Change control",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 1288,
+    "ScenarioID": 54,
+    "Title": "Trial pits to confirm depths of existing structures, to inform excavation design.",
+    "Details": "",
+    "Stage": "Site work, Temp Works, Change control",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 1289,
+    "ScenarioID": 54,
+    "Title": "Equipment to be managed in accordance with LOLER and PUWER",
+    "Details": "",
+    "Stage": "Site work, Temp Works, Change control",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 1290,
+    "ScenarioID": 54,
+    "Title": "Any movement monitoring or watching brief to be completed as planned.",
+    "Details": "",
+    "Stage": "Site work, Temp Works, Change control",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 1291,
+    "ScenarioID": 54,
+    "Title": "Monitor the environmental conditions during excavation activities and mitigate where required.",
+    "Details": "",
+    "Stage": "Site work, Temp Works, Change control",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 1292,
+    "ScenarioID": 54,
+    "Title": "Secondary design checks prior to removal of temporary works, for permission to load/ strike.",
+    "Details": "",
+    "Stage": "Site work, Temp Works, Change control",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 1293,
+    "ScenarioID": 54,
+    "Title": "Update drawings with relevant information.",
+    "Details": "",
+    "Stage": "Site work, Temp Works, Change control",
+    "Type": "Inform"
+  },
+  {
+    "Id": 991,
+    "ScenarioID": 55,
+    "Title": "Design out need to enter space",
+    "Details": "",
+    "Stage": "Preliminary Design",
+    "Type": "Eliminate"
+  },
+  {
+    "Id": 992,
+    "ScenarioID": 55,
+    "Title": "Design man hole chambers with sufficent size for access",
+    "Details": "",
+    "Stage": "Preliminary Design",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 993,
+    "ScenarioID": 55,
+    "Title": "Remote monitoring methods to perform regular checks",
+    "Details": "",
+    "Stage": "Preliminary Design",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 994,
+    "ScenarioID": 55,
+    "Title": "Design in sufficient rodding eye capacity",
+    "Details": "",
+    "Stage": "Preliminary Design",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 995,
+    "ScenarioID": 55,
+    "Title": "Utilize existing site topography when designing drainage falls",
+    "Details": "",
+    "Stage": "Preliminary Design",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 996,
+    "ScenarioID": 55,
+    "Title": "Specify automated pumping stations",
+    "Details": "",
+    "Stage": "Detail Design",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 997,
+    "ScenarioID": 55,
+    "Title": "Consider sustainable urban drainage systems SUDS to minimise amount of gray water",
+    "Details": "",
+    "Stage": "Detail Design",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 998,
+    "ScenarioID": 55,
+    "Title": "Select semi-permeable paving to reduce rain water into systems",
+    "Details": "",
+    "Stage": "Detail Design",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 999,
+    "ScenarioID": 55,
+    "Title": "Review options for mechanically ventilating chamber",
+    "Details": "",
+    "Stage": "Detail Design",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 1000,
+    "ScenarioID": 55,
+    "Title": "Specificy remote gas monitoring of chambers",
+    "Details": "",
+    "Stage": "Detail Design",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 1001,
+    "ScenarioID": 55,
+    "Title": "Consideration of emergency access strategy",
+    "Details": "",
+    "Stage": "Detail Design",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 1002,
+    "ScenarioID": 55,
+    "Title": "Ensure suitable ladder access with all necessary landings",
+    "Details": "",
+    "Stage": "Detail Design",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 1003,
+    "ScenarioID": 55,
+    "Title": "Ensure complaince with Fixed ladders for manholes BS 14396 if applicable",
+    "Details": "",
+    "Stage": "Detail Design",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 1004,
+    "ScenarioID": 55,
+    "Title": "Check if ATEX equipment is required",
+    "Details": "",
+    "Stage": "Detail Design",
+    "Type": "Inform"
+  },
+  {
+    "Id": 1005,
+    "ScenarioID": 55,
+    "Title": "Ensure all residual risks are identified and communicated to contractor teams",
+    "Details": "",
+    "Stage": "Detail Design",
+    "Type": "Inform"
+  },
+  {
+    "Id": 1006,
+    "ScenarioID": 55,
+    "Title": "Utilize drone technology to access in replacement of human access (ATEX certified where required)",
+    "Details": "",
+    "Stage": "Pre construction",
+    "Type": "Eliminate"
+  },
+  {
+    "Id": 1008,
+    "ScenarioID": 55,
+    "Title": "Deploy breathing apparatus subject to risk assessment",
+    "Details": "",
+    "Stage": "Pre construction",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 1009,
+    "ScenarioID": 55,
+    "Title": "Ensure safe systems of work and permit to enter is established and followed",
+    "Details": "",
+    "Stage": "Pre construction",
+    "Type": "Inform"
+  },
+  {
+    "Id": 1010,
+    "ScenarioID": 55,
+    "Title": "No lone working",
+    "Details": "",
+    "Stage": "Pre construction",
+    "Type": "Inform"
+  },
+  {
+    "Id": 1011,
+    "ScenarioID": 55,
+    "Title": "Full rescue procedure practiced and planned before hand",
+    "Details": "",
+    "Stage": "Pre construction",
+    "Type": "Inform"
+  },
+  {
+    "Id": 1012,
+    "ScenarioID": 55,
+    "Title": "Ensure only competent and trained people undertake work",
+    "Details": "",
+    "Stage": "Pre construction",
+    "Type": "Inform"
+  },
+  {
+    "Id": 1013,
+    "ScenarioID": 55,
+    "Title": "Check statutory drawings before carrying out works",
+    "Details": "",
+    "Stage": "Site work, Temp Works, Change control",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 1014,
+    "ScenarioID": 55,
+    "Title": "Carry out regular atmospheric tests",
+    "Details": "",
+    "Stage": "Site work, Temp Works, Change control",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 1015,
+    "ScenarioID": 55,
+    "Title": "Implement permit to work procedure",
+    "Details": "",
+    "Stage": "Site work, Temp Works, Change control",
+    "Type": "Inform"
+  },
+  {
+    "Id": 1016,
+    "ScenarioID": 55,
+    "Title": "Limit duration of entry into space",
+    "Details": "",
+    "Stage": "Site work, Temp Works, Change control",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 1042,
+    "ScenarioID": 55,
+    "Title": "Utilize personal atmosphere monitoring",
+    "Details": "",
+    "Stage": "Pre construction",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 1017,
+    "ScenarioID": 56,
+    "Title": "Design out need to enter space",
+    "Details": "",
+    "Stage": "Preliminary Design",
+    "Type": "Eliminate"
+  },
+  {
+    "Id": 1018,
+    "ScenarioID": 56,
+    "Title": "Design in mechanical ventilation to remove potential of flammable atmosphere",
+    "Details": "",
+    "Stage": "Preliminary Design",
+    "Type": "Eliminate"
+  },
+  {
+    "Id": 1019,
+    "ScenarioID": 56,
+    "Title": "Ensure compliance DSEAR and standards BS\nEN 60079 and 80079.",
+    "Details": "",
+    "Stage": "Preliminary Design",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 1020,
+    "ScenarioID": 56,
+    "Title": "Remote monitoring methods to perform regular checks",
+    "Details": "",
+    "Stage": "Preliminary Design",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 1021,
+    "ScenarioID": 56,
+    "Title": "Design in passive ventilation shafts and openings",
+    "Details": "",
+    "Stage": "Preliminary Design",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 1022,
+    "ScenarioID": 56,
+    "Title": "Limit flammable atmosphere area",
+    "Details": "",
+    "Stage": "Preliminary Design",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 1023,
+    "ScenarioID": 56,
+    "Title": "All specified equipment within the environment to be ATEX certified",
+    "Details": "",
+    "Stage": "Preliminary Design",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 1024,
+    "ScenarioID": 56,
+    "Title": "Review options for forced ventilation",
+    "Details": "",
+    "Stage": "Detail Design",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 1025,
+    "ScenarioID": 56,
+    "Title": "Compatibility and coordination of services to allow for compartmentalisation and clear access",
+    "Details": "",
+    "Stage": "Detail Design",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 1026,
+    "ScenarioID": 56,
+    "Title": "Designing blast walls into structural framing",
+    "Details": "",
+    "Stage": "Detail Design",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 1027,
+    "ScenarioID": 56,
+    "Title": "Specify anti-static equipment and materials for use in space",
+    "Details": "",
+    "Stage": "Detail Design",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 1028,
+    "ScenarioID": 56,
+    "Title": "Specify remote gas monitoring",
+    "Details": "",
+    "Stage": "Detail Design",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 1029,
+    "ScenarioID": 56,
+    "Title": "Consideration of emergency access strategy",
+    "Details": "",
+    "Stage": "Detail Design",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 1030,
+    "ScenarioID": 56,
+    "Title": "Ensure all residual risks are identified and communicated to contractor teams",
+    "Details": "",
+    "Stage": "Detail Design",
+    "Type": "Inform"
+  },
+  {
+    "Id": 1031,
+    "ScenarioID": 56,
+    "Title": "Utilize drone technology to access in replacement of human access (ATEX certified)",
+    "Details": "",
+    "Stage": "Pre construction",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 1032,
+    "ScenarioID": 56,
+    "Title": "Establish personal atmopshere monitoring",
+    "Details": "",
+    "Stage": "Pre construction",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 1033,
+    "ScenarioID": 56,
+    "Title": "Ensure safe systems of work and permit to enter is established and followed",
+    "Details": "",
+    "Stage": "Pre construction",
+    "Type": "Inform"
+  },
+  {
+    "Id": 1034,
+    "ScenarioID": 56,
+    "Title": "No lone working",
+    "Details": "",
+    "Stage": "Pre construction",
+    "Type": "Inform"
+  },
+  {
+    "Id": 1035,
+    "ScenarioID": 56,
+    "Title": "Full rescue procedure practiced and planned before hand",
+    "Details": "",
+    "Stage": "Pre construction",
+    "Type": "Inform"
+  },
+  {
+    "Id": 1036,
+    "ScenarioID": 56,
+    "Title": "Ensure only competent and trained people undertake work",
+    "Details": "",
+    "Stage": "Pre construction",
+    "Type": "Inform"
+  },
+  {
+    "Id": 1037,
+    "ScenarioID": 56,
+    "Title": "Check statutory drawings before carrying out works",
+    "Details": "",
+    "Stage": "Site work, Temp Works, Change control",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 1038,
+    "ScenarioID": 56,
+    "Title": "Carry out regular atmospheric tests",
+    "Details": "",
+    "Stage": "Site work, Temp Works, Change control",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 1039,
+    "ScenarioID": 56,
+    "Title": "Limit duration of entry into space",
+    "Details": "",
+    "Stage": "Site work, Temp Works, Change control",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 1040,
+    "ScenarioID": 56,
+    "Title": "Implement permit to work procedure",
+    "Details": "",
+    "Stage": "Site work, Temp Works, Change control",
+    "Type": "Inform"
+  },
+  {
+    "Id": 1041,
+    "ScenarioID": 56,
+    "Title": "Specific PPE to used, Class 1 EN 11612",
+    "Details": "",
+    "Stage": "Site work, Temp Works, Change control",
+    "Type": "Inform"
+  },
+  {
+    "Id": 1043,
+    "ScenarioID": 59,
+    "Title": "Design out need to enter space",
+    "Details": "",
+    "Stage": "Preliminary Design",
+    "Type": "Eliminate"
+  },
+  {
+    "Id": 1044,
+    "ScenarioID": 59,
+    "Title": "Design in a ventilated lift motor room",
+    "Details": "",
+    "Stage": "Preliminary Design",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 1045,
+    "ScenarioID": 59,
+    "Title": "Remote monitoring methods to perform regular checks",
+    "Details": "",
+    "Stage": "Preliminary Design",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 1046,
+    "ScenarioID": 59,
+    "Title": "Services to be in separate riser accomodation rather than lift shaft",
+    "Details": "",
+    "Stage": "Preliminary Design",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 1047,
+    "ScenarioID": 59,
+    "Title": "Review options for mechanically ventilating shaft",
+    "Details": "",
+    "Stage": "Detail Design",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 1048,
+    "ScenarioID": 59,
+    "Title": "Monitor oxygen levels",
+    "Details": "",
+    "Stage": "Detail Design",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 1049,
+    "ScenarioID": 59,
+    "Title": "Consideration of emergency access strategy",
+    "Details": "",
+    "Stage": "Detail Design",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 1050,
+    "ScenarioID": 59,
+    "Title": "Ensure all residual risks are identified and communicated to contractor teams",
+    "Details": "",
+    "Stage": "Detail Design",
+    "Type": "Inform"
+  },
+  {
+    "Id": 1051,
+    "ScenarioID": 59,
+    "Title": "Establish personal oxygen monitoring",
+    "Details": "",
+    "Stage": "Pre construction",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 1052,
+    "ScenarioID": 59,
+    "Title": "Ensure safe systems of work and permit to enter is established and followed",
+    "Details": "",
+    "Stage": "Pre construction",
+    "Type": "Inform"
+  },
+  {
+    "Id": 1053,
+    "ScenarioID": 59,
+    "Title": "No lone working",
+    "Details": "",
+    "Stage": "Pre construction",
+    "Type": "Inform"
+  },
+  {
+    "Id": 1054,
+    "ScenarioID": 59,
+    "Title": "Full rescue procedure practiced and planned before hand",
+    "Details": "",
+    "Stage": "Pre construction",
+    "Type": "Inform"
+  },
+  {
+    "Id": 1055,
+    "ScenarioID": 59,
+    "Title": "Ensure only competent and trained people undertake work",
+    "Details": "",
+    "Stage": "Pre construction",
+    "Type": "Inform"
+  },
+  {
+    "Id": 1056,
+    "ScenarioID": 59,
+    "Title": "Check statutory drawings before carrying out works",
+    "Details": "",
+    "Stage": "Site work, Temp Works, Change control",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 1057,
+    "ScenarioID": 59,
+    "Title": "Carry out regular atmospheric tests",
+    "Details": "",
+    "Stage": "Site work, Temp Works, Change control",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 1058,
+    "ScenarioID": 59,
+    "Title": "Limit duration of entry into space",
+    "Details": "",
+    "Stage": "Site work, Temp Works, Change control",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 1059,
+    "ScenarioID": 59,
+    "Title": "Implement permit to work procedure",
+    "Details": "",
+    "Stage": "Site work, Temp Works, Change control",
+    "Type": "Inform"
+  },
+  {
+    "Id": 1086,
+    "ScenarioID": 60,
+    "Title": "Divert powerlines underground.",
+    "Details": "",
+    "Stage": "Preliminary Design",
+    "Type": "Eliminate"
+  },
+  {
+    "Id": 1087,
+    "ScenarioID": 60,
+    "Title": "Request termination of supply",
+    "Details": "",
+    "Stage": "Preliminary Design",
+    "Type": "Eliminate"
+  },
+  {
+    "Id": 1088,
+    "ScenarioID": 60,
+    "Title": "Divert utility supply to another location",
+    "Details": "",
+    "Stage": "Preliminary Design",
+    "Type": "Eliminate"
+  },
+  {
+    "Id": 1089,
+    "ScenarioID": 60,
+    "Title": "Carry out vehicle tracking exercise for anticipated site traffic, particularly any oversized vehicles or plant and identify any interface with overhead power lines.",
+    "Details": "",
+    "Stage": "Preliminary Design",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 1090,
+    "ScenarioID": 60,
+    "Title": "Reduce dig ground, to increase the clearance between ground level and overhead power lines, when forming haulage or access routes.",
+    "Details": "",
+    "Stage": "Preliminary Design",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 1091,
+    "ScenarioID": 60,
+    "Title": "Mark up site plan with intersections between traffic and overhead powerlines.",
+    "Details": "",
+    "Stage": "Preliminary Design",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 1092,
+    "ScenarioID": 60,
+    "Title": "Identify voltage and status of electrical over head lines. To understand exclusion zone and inform design team.  Consult with provider.",
+    "Details": "",
+    "Stage": "Preliminary Design",
+    "Type": "Inform"
+  },
+  {
+    "Id": 1093,
+    "ScenarioID": 60,
+    "Title": "Request provider to sheath areas of powerlines at crossing points",
+    "Details": "",
+    "Stage": "Detail Design",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 1094,
+    "ScenarioID": 60,
+    "Title": "Consider location of stockpiles away from overhead powerlines",
+    "Details": "",
+    "Stage": "Detail Design",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 1095,
+    "ScenarioID": 60,
+    "Title": "Consideration of construction phasing to avoid over head powerlines.",
+    "Details": "",
+    "Stage": "Detail Design",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 1096,
+    "ScenarioID": 60,
+    "Title": "Reference and highlight high risk in the pre-construction information",
+    "Details": "",
+    "Stage": "Detail Design",
+    "Type": "Inform"
+  },
+  {
+    "Id": 1097,
+    "ScenarioID": 60,
+    "Title": "Use goalposts to identify areas of risk in the vertical plane.",
+    "Details": "",
+    "Stage": "Pre construction",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 1098,
+    "ScenarioID": 60,
+    "Title": "Instal height limit barriers at start of vehicle routes.",
+    "Details": "",
+    "Stage": "Pre construction",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 1099,
+    "ScenarioID": 60,
+    "Title": "Design in one way traffic system, to minimalize conflict",
+    "Details": "",
+    "Stage": "Pre construction",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 1100,
+    "ScenarioID": 60,
+    "Title": "Unloading/ loading and storage areas to be located away from over head power lines",
+    "Details": "",
+    "Stage": "Pre construction",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 1101,
+    "ScenarioID": 60,
+    "Title": "Identify and mark plant exclusion zones in proximity of overhead powerlines.",
+    "Details": "",
+    "Stage": "Pre construction",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 1102,
+    "ScenarioID": 60,
+    "Title": "Information on maximum plant heights and areas of exclusion zones to be fully marked up and communicated.",
+    "Details": "",
+    "Stage": "Pre construction",
+    "Type": "Inform"
+  },
+  {
+    "Id": 1103,
+    "ScenarioID": 60,
+    "Title": "Delivery and unloading arrangements to be confirmed and communicated",
+    "Details": "",
+    "Stage": "Pre construction",
+    "Type": "Inform"
+  },
+  {
+    "Id": 1104,
+    "ScenarioID": 60,
+    "Title": "Produce and implement a traffic management plan to mitigate risk",
+    "Details": "",
+    "Stage": "Pre construction",
+    "Type": "Inform"
+  },
+  {
+    "Id": 1105,
+    "ScenarioID": 60,
+    "Title": "Mitigate risk in the construction phase plan",
+    "Details": "",
+    "Stage": "Pre construction",
+    "Type": "Inform"
+  },
+  {
+    "Id": 1106,
+    "ScenarioID": 60,
+    "Title": "Lock out power temporarily to facilitate the works.",
+    "Details": "",
+    "Stage": "Site work, Temp Works, Change control",
+    "Type": "Eliminate"
+  },
+  {
+    "Id": 1107,
+    "ScenarioID": 60,
+    "Title": "Monitor heights levels of overhead powerlines in relation to ground at regular intervals.",
+    "Details": "",
+    "Stage": "Site work, Temp Works, Change control",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 1108,
+    "ScenarioID": 60,
+    "Title": "Monitor site speed limits and implementation of traffic calming measures.",
+    "Details": "",
+    "Stage": "Site work, Temp Works, Change control",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 1109,
+    "ScenarioID": 60,
+    "Title": "Monitor and review exclusion zones.",
+    "Details": "",
+    "Stage": "Site work, Temp Works, Change control",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 1110,
+    "ScenarioID": 60,
+    "Title": "Carry out regular visual checks of the sheathing at distance.",
+    "Details": "",
+    "Stage": "Site work, Temp Works, Change control",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 1111,
+    "ScenarioID": 60,
+    "Title": "Monitor weather conditions.",
+    "Details": "",
+    "Stage": "Site work, Temp Works, Change control",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 1112,
+    "ScenarioID": 60,
+    "Title": "Work to a SSoW for loading and unloading procedures",
+    "Details": "",
+    "Stage": "Site work, Temp Works, Change control",
+    "Type": "Inform"
+  },
+  {
+    "Id": 1060,
+    "ScenarioID": 61,
+    "Title": "Divert powerlines underground.",
+    "Details": "",
+    "Stage": "Preliminary Design",
+    "Type": "Eliminate"
+  },
+  {
+    "Id": 1061,
+    "ScenarioID": 61,
+    "Title": "Request termination of supply",
+    "Details": "",
+    "Stage": "Preliminary Design",
+    "Type": "Eliminate"
+  },
+  {
+    "Id": 1062,
+    "ScenarioID": 61,
+    "Title": "Divert utility supply to another location",
+    "Details": "",
+    "Stage": "Preliminary Design",
+    "Type": "Eliminate"
+  },
+  {
+    "Id": 1063,
+    "ScenarioID": 61,
+    "Title": "Carry out vehicle tracking exercise for anticipated site traffic, particularly any oversized vehicles or plant and identify any interface with overhead power lines.",
+    "Details": "",
+    "Stage": "Preliminary Design",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 1064,
+    "ScenarioID": 61,
+    "Title": "Reduce dig ground, to increase the clearance between ground level and overhead power lines, when forming haulage or access routes.",
+    "Details": "",
+    "Stage": "Preliminary Design",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 1065,
+    "ScenarioID": 61,
+    "Title": "Mark up site plan with intersections between traffic and overhead powerlines.",
+    "Details": "",
+    "Stage": "Preliminary Design",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 1066,
+    "ScenarioID": 61,
+    "Title": "Identify voltage and status of electrical over head lines. To understand exclusion zone and inform design team.  Consult with provider.",
+    "Details": "",
+    "Stage": "Preliminary Design",
+    "Type": "Inform"
+  },
+  {
+    "Id": 1067,
+    "ScenarioID": 61,
+    "Title": "Request provider to sheath areas of powerlines at crossing points",
+    "Details": "",
+    "Stage": "Detail Design",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 1068,
+    "ScenarioID": 61,
+    "Title": "Consider location of stockpiles away from overhead powerlines",
+    "Details": "",
+    "Stage": "Detail Design",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 1069,
+    "ScenarioID": 61,
+    "Title": "Reference  and highlight high risk in the pre-construction information",
+    "Details": "",
+    "Stage": "Detail Design",
+    "Type": "Inform"
+  },
+  {
+    "Id": 1070,
+    "ScenarioID": 61,
+    "Title": "Use goalposts to identify areas of risk in the vertical plane.",
+    "Details": "",
+    "Stage": "Pre construction",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 1071,
+    "ScenarioID": 61,
+    "Title": "Instal height limit barriers at start of vehicle routes.",
+    "Details": "",
+    "Stage": "Pre construction",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 1072,
+    "ScenarioID": 61,
+    "Title": "Design in one way traffic system, to minimalize conflict",
+    "Details": "",
+    "Stage": "Pre construction",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 1073,
+    "ScenarioID": 61,
+    "Title": "Unloading/ loading and storage areas to be located away from over head power lines",
+    "Details": "",
+    "Stage": "Pre construction",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 1074,
+    "ScenarioID": 61,
+    "Title": "Identify and mark plant exclusion zones in proximity of overhead powerlines.",
+    "Details": "",
+    "Stage": "Pre construction",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 1075,
+    "ScenarioID": 61,
+    "Title": "Information on maximum plant heights and areas of exclusion zones to be fully marked up and communicated.",
+    "Details": "",
+    "Stage": "Pre construction",
+    "Type": "Inform"
+  },
+  {
+    "Id": 1076,
+    "ScenarioID": 61,
+    "Title": "Delivery and unloading arrangements to be confirmed and communicated",
+    "Details": "",
+    "Stage": "Pre construction",
+    "Type": "Inform"
+  },
+  {
+    "Id": 1077,
+    "ScenarioID": 61,
+    "Title": "Produce and implement a traffic management plan to mitigate risk",
+    "Details": "",
+    "Stage": "Pre construction",
+    "Type": "Inform"
+  },
+  {
+    "Id": 1078,
+    "ScenarioID": 61,
+    "Title": "Mitigate risk in the construction phase plan",
+    "Details": "",
+    "Stage": "Pre construction",
+    "Type": "Inform"
+  },
+  {
+    "Id": 1079,
+    "ScenarioID": 61,
+    "Title": "Lock out power temporarily to facilitate the works.",
+    "Details": "",
+    "Stage": "Site work, Temp Works, Change control",
+    "Type": "Eliminate"
+  },
+  {
+    "Id": 1080,
+    "ScenarioID": 61,
+    "Title": "Monitor heights levels of overhead powerlines in relation to ground at regular intervals.",
+    "Details": "",
+    "Stage": "Site work, Temp Works, Change control",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 1081,
+    "ScenarioID": 61,
+    "Title": "Monitor site speed limits and implementation of traffic calming measures.",
+    "Details": "",
+    "Stage": "Site work, Temp Works, Change control",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 1082,
+    "ScenarioID": 61,
+    "Title": "Monitor and review exclusion zones.",
+    "Details": "",
+    "Stage": "Site work, Temp Works, Change control",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 1083,
+    "ScenarioID": 61,
+    "Title": "Carry out regular visual checks of the sheathing at distance.",
+    "Details": "",
+    "Stage": "Site work, Temp Works, Change control",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 1084,
+    "ScenarioID": 61,
+    "Title": "Monitor weather conditions.",
+    "Details": "",
+    "Stage": "Site work, Temp Works, Change control",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 1085,
+    "ScenarioID": 61,
+    "Title": "Work to a SSoW for loading and unloading procedures",
+    "Details": "",
+    "Stage": "Site work, Temp Works, Change control",
+    "Type": "Inform"
+  },
+  {
+    "Id": 1113,
+    "ScenarioID": 62,
+    "Title": "Request temporary termination of supply",
+    "Details": "",
+    "Stage": "Preliminary Design",
+    "Type": "Eliminate"
+  },
+  {
+    "Id": 1114,
+    "ScenarioID": 62,
+    "Title": "Identify voltage and status of electrical over head lines. To understand exclusion zone and inform design team.  Consult with provider.",
+    "Details": "",
+    "Stage": "Preliminary Design",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 1115,
+    "ScenarioID": 62,
+    "Title": "Mark up site plan with intersections between traffic and overhead powerlines.",
+    "Details": "",
+    "Stage": "Preliminary Design",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 1116,
+    "ScenarioID": 62,
+    "Title": "Mark up exclusion zones on drawings",
+    "Details": "",
+    "Stage": "Preliminary Design",
+    "Type": "Inform"
+  },
+  {
+    "Id": 1117,
+    "ScenarioID": 62,
+    "Title": "Request provider to sheath areas of powerlines where access is required",
+    "Details": "",
+    "Stage": "Detail Design",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 1118,
+    "ScenarioID": 62,
+    "Title": "Reference  and highlight high risk in the pre-construction information",
+    "Details": "",
+    "Stage": "Detail Design",
+    "Type": "Inform"
+  },
+  {
+    "Id": 1119,
+    "ScenarioID": 62,
+    "Title": "Unloading/ loading and storage areas to be located away from over head power lines",
+    "Details": "",
+    "Stage": "Pre construction",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 1120,
+    "ScenarioID": 62,
+    "Title": "Identify and mark plant exclusion zones in proximity of overhead powerlines.",
+    "Details": "",
+    "Stage": "Pre construction",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 1121,
+    "ScenarioID": 62,
+    "Title": "Information on maximum plant heights and areas of exclusion zones to be fully marked up and communicated.",
+    "Details": "",
+    "Stage": "Pre construction",
+    "Type": "Inform"
+  },
+  {
+    "Id": 1122,
+    "ScenarioID": 62,
+    "Title": "Delivery and unloading arrangements to be confirmed and communicated",
+    "Details": "",
+    "Stage": "Pre construction",
+    "Type": "Inform"
+  },
+  {
+    "Id": 1123,
+    "ScenarioID": 62,
+    "Title": "Produce and implement a traffic management plan to mitigate risk",
+    "Details": "",
+    "Stage": "Pre construction",
+    "Type": "Inform"
+  },
+  {
+    "Id": 1124,
+    "ScenarioID": 62,
+    "Title": "Mitigate risk in the construction phase plan",
+    "Details": "",
+    "Stage": "Pre construction",
+    "Type": "Inform"
+  },
+  {
+    "Id": 1125,
+    "ScenarioID": 62,
+    "Title": "Lock out power temporarily to facilitate the works.",
+    "Details": "",
+    "Stage": "Site work, Temp Works, Change control",
+    "Type": "Eliminate"
+  },
+  {
+    "Id": 1126,
+    "ScenarioID": 62,
+    "Title": "Monitor and review exclusion zones.",
+    "Details": "",
+    "Stage": "Site work, Temp Works, Change control",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 1127,
+    "ScenarioID": 62,
+    "Title": "Carry out regular visual checks of the sheathing at distance.",
+    "Details": "",
+    "Stage": "Site work, Temp Works, Change control",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 1128,
+    "ScenarioID": 62,
+    "Title": "Monitor weather conditions.",
+    "Details": "",
+    "Stage": "Site work, Temp Works, Change control",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 1129,
+    "ScenarioID": 62,
+    "Title": "Work to a SSoW for loading and unloading procedures",
+    "Details": "",
+    "Stage": "Site work, Temp Works, Change control",
+    "Type": "Inform"
+  },
+  {
+    "Id": 1130,
+    "ScenarioID": 63,
+    "Title": "Substructure design to take into account location of existing services and avoid clashes.",
+    "Details": "",
+    "Stage": "Preliminary Design",
+    "Type": "Eliminate"
+  },
+  {
+    "Id": 1131,
+    "ScenarioID": 63,
+    "Title": "Obtain STATS drawings and complete GPR survey, confirming location by trial pits where required.",
+    "Details": "",
+    "Stage": "Preliminary Design",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 1132,
+    "ScenarioID": 63,
+    "Title": "Installation of new services to be coordinated with existing services",
+    "Details": "",
+    "Stage": "Detail Design",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 1133,
+    "ScenarioID": 63,
+    "Title": "New services to be designed to the required depth",
+    "Details": "",
+    "Stage": "Detail Design",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 1134,
+    "ScenarioID": 63,
+    "Title": "Mark out on site known location of existing services following hand digging.",
+    "Details": "",
+    "Stage": "Pre construction",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 1135,
+    "ScenarioID": 63,
+    "Title": "Ensure safe systems of work are followed",
+    "Details": "",
+    "Stage": "Site work, Temp Works, Change control",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 1136,
+    "ScenarioID": 63,
+    "Title": "Track change management in relation to works",
+    "Details": "",
+    "Stage": "Site work, Temp Works, Change control",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 1137,
+    "ScenarioID": 63,
+    "Title": "Ensure services are installed to the required minimum depths",
+    "Details": "",
+    "Stage": "Site work, Temp Works, Change control",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 1138,
+    "ScenarioID": 63,
+    "Title": "Operate a permit to work system",
+    "Details": "",
+    "Stage": "Site work, Temp Works, Change control",
+    "Type": "Inform"
+  },
+  {
+    "Id": 1139,
+    "ScenarioID": 64,
+    "Title": "Substructure design to take into account location of existing services and avoid clashes.",
+    "Details": "",
+    "Stage": "Preliminary Design",
+    "Type": "Eliminate"
+  },
+  {
+    "Id": 1140,
+    "ScenarioID": 64,
+    "Title": "Obtain STATS drawings and complete GPR survey, confirming location by trial pits where required.",
+    "Details": "",
+    "Stage": "Preliminary Design",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 1141,
+    "ScenarioID": 64,
+    "Title": "Installation of new services to be coordinated with existing services",
+    "Details": "",
+    "Stage": "Detail Design",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 1142,
+    "ScenarioID": 64,
+    "Title": "New services to be designed to the required depth",
+    "Details": "",
+    "Stage": "Detail Design",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 1143,
+    "ScenarioID": 64,
+    "Title": "Mark out on site known location of existing services following hand digging.",
+    "Details": "",
+    "Stage": "Pre construction",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 1144,
+    "ScenarioID": 64,
+    "Title": "Ensure safe systems of work are followed",
+    "Details": "",
+    "Stage": "Site work, Temp Works, Change control",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 1145,
+    "ScenarioID": 64,
+    "Title": "Track change management in relation to works",
+    "Details": "",
+    "Stage": "Site work, Temp Works, Change control",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 1146,
+    "ScenarioID": 64,
+    "Title": "Ensure services are installed to the required minimum depths",
+    "Details": "",
+    "Stage": "Site work, Temp Works, Change control",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 1147,
+    "ScenarioID": 64,
+    "Title": "Operate a permit to work system",
+    "Details": "",
+    "Stage": "Site work, Temp Works, Change control",
+    "Type": "Inform"
+  },
+  {
+    "Id": 1294,
+    "ScenarioID": 71,
+    "Title": "Design building components to be in manageable loads.",
+    "Details": "",
+    "Stage": "Preliminary Design",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 1295,
+    "ScenarioID": 71,
+    "Title": "Identify areas of suitable ground bearing capacity to utilise the crane and it's load.",
+    "Details": "",
+    "Stage": "Preliminary Design",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 1296,
+    "ScenarioID": 71,
+    "Title": "Design crane strategy to avoid using maximum jib length use.",
+    "Details": "",
+    "Stage": "Preliminary Design",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 1297,
+    "ScenarioID": 71,
+    "Title": "give consideration to alternative use of other lifting methods such as mast climbers.",
+    "Details": "",
+    "Stage": "Preliminary Design",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 1298,
+    "ScenarioID": 71,
+    "Title": "Anticipated loads to be communicated on specifications and drawings.",
+    "Details": "",
+    "Stage": "Preliminary Design",
+    "Type": "Inform"
+  },
+  {
+    "Id": 1299,
+    "ScenarioID": 71,
+    "Title": "Information for the topographical survey of the site to be provided.",
+    "Details": "",
+    "Stage": "Preliminary Design",
+    "Type": "Inform"
+  },
+  {
+    "Id": 1300,
+    "ScenarioID": 71,
+    "Title": "Ensure a stage two site investigation is completed and available for project team.",
+    "Details": "",
+    "Stage": "Preliminary Design",
+    "Type": "Inform"
+  },
+  {
+    "Id": 1301,
+    "ScenarioID": 71,
+    "Title": "Coordination with construction strategy/ phasing",
+    "Details": "",
+    "Stage": "Detail Design",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 1302,
+    "ScenarioID": 71,
+    "Title": "Limit component sizes in design where possible.",
+    "Details": "",
+    "Stage": "Detail Design",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 1303,
+    "ScenarioID": 71,
+    "Title": "Ensure stable ground for lifting",
+    "Details": "",
+    "Stage": "Detail Design",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 1304,
+    "ScenarioID": 71,
+    "Title": "Design in lifting eyes to simplify lifting.",
+    "Details": "",
+    "Stage": "Detail Design",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 1305,
+    "ScenarioID": 71,
+    "Title": "Consider the use of stillages/ cradles.",
+    "Details": "",
+    "Stage": "Detail Design",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 1306,
+    "ScenarioID": 71,
+    "Title": "Confirmed lifting loads communicated on specifications and drawings.",
+    "Details": "",
+    "Stage": "Detail Design",
+    "Type": "Inform"
+  },
+  {
+    "Id": 1307,
+    "ScenarioID": 71,
+    "Title": "Unusual lifting requirements highlighted and communicated",
+    "Details": "",
+    "Stage": "Detail Design",
+    "Type": "Inform"
+  },
+  {
+    "Id": 1308,
+    "ScenarioID": 71,
+    "Title": "Logistics plan to be fully designed and coordinated.",
+    "Details": "",
+    "Stage": "Pre construction",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 1309,
+    "ScenarioID": 71,
+    "Title": "Lift plan, including emergency plan to be fully designed and coordinated.",
+    "Details": "",
+    "Stage": "Pre construction",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 1310,
+    "ScenarioID": 71,
+    "Title": "Confirm lifting requirements, dimension and maximum load.",
+    "Details": "",
+    "Stage": "Pre construction",
+    "Type": "Inform"
+  },
+  {
+    "Id": 1311,
+    "ScenarioID": 71,
+    "Title": "Exclusion zones for lifting areas to be specified and communicated.",
+    "Details": "",
+    "Stage": "Pre construction",
+    "Type": "Inform"
+  },
+  {
+    "Id": 1312,
+    "ScenarioID": 71,
+    "Title": "Check crane statutory certification for lifting equipment and accessories.",
+    "Details": "",
+    "Stage": "Site work, Temp Works, Change control",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 1313,
+    "ScenarioID": 71,
+    "Title": "Permit to lift to be in operation.",
+    "Details": "",
+    "Stage": "Site work, Temp Works, Change control",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 1314,
+    "ScenarioID": 71,
+    "Title": "Pre-test of crane, alarms and safety systems to be implemented and recorded.",
+    "Details": "",
+    "Stage": "Site work, Temp Works, Change control",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 1315,
+    "ScenarioID": 71,
+    "Title": "Competent operatives only using the equipment.",
+    "Details": "",
+    "Stage": "Site work, Temp Works, Change control",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 1316,
+    "ScenarioID": 71,
+    "Title": "Components with unknown dimensions, weights or centres of gravity to be assessed.",
+    "Details": "",
+    "Stage": "Site work, Temp Works, Change control",
+    "Type": "Inform"
+  },
+  {
+    "Id": 1348,
+    "ScenarioID": 78,
+    "Title": "Carry out asbestos survey to inform treatment / removal strategy",
+    "Details": "",
+    "Stage": "Pre construction",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 1349,
+    "ScenarioID": 78,
+    "Title": "Mark up on plans and sticker ACM's",
+    "Details": "",
+    "Stage": "Pre construction",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 1350,
+    "ScenarioID": 78,
+    "Title": "Design in a compartmentalised service voids.",
+    "Details": "",
+    "Stage": "Pre construction",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 1351,
+    "ScenarioID": 78,
+    "Title": "Ensure asbestos surveys are included in preconstruction information.",
+    "Details": "",
+    "Stage": "Pre construction",
+    "Type": "Inform"
+  },
+  {
+    "Id": 1352,
+    "ScenarioID": 78,
+    "Title": "Notify HSE of removal depending on quantities / type.",
+    "Details": "",
+    "Stage": "Pre construction",
+    "Type": "Inform"
+  },
+  {
+    "Id": 1353,
+    "ScenarioID": 78,
+    "Title": "Remove or encapsulate asbestos.",
+    "Details": "",
+    "Stage": "Site work, Temp Works, Change control",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 1354,
+    "ScenarioID": 78,
+    "Title": "Use of a licenced contractor if required",
+    "Details": "",
+    "Stage": "Site work, Temp Works, Change control",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 1355,
+    "ScenarioID": 78,
+    "Title": "Clearance certificate post treatment to be provided.",
+    "Details": "",
+    "Stage": "Site work, Temp Works, Change control",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 1356,
+    "ScenarioID": 78,
+    "Title": "Asbestos awareness trained operatives",
+    "Details": "",
+    "Stage": "Site work, Temp Works, Change control",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 1357,
+    "ScenarioID": 78,
+    "Title": "Update asbestos management plan for the building.",
+    "Details": "",
+    "Stage": "Site work, Temp Works, Change control",
+    "Type": "Inform"
+  },
+  {
+    "Id": 1358,
+    "ScenarioID": 78,
+    "Title": "Damage reporting procedure to be followed.",
+    "Details": "",
+    "Stage": "Site work, Temp Works, Change control",
+    "Type": "Inform"
+  },
+  {
+    "Id": 1317,
+    "ScenarioID": 99,
+    "Title": "Situate the crane with no oversailing of public areas.",
+    "Details": "",
+    "Stage": "Preliminary Design",
+    "Type": "Eliminate"
+  },
+  {
+    "Id": 1318,
+    "ScenarioID": 99,
+    "Title": "Temporary closures to public accessible areas.",
+    "Details": "",
+    "Stage": "Preliminary Design",
+    "Type": "Eliminate"
+  },
+  {
+    "Id": 1319,
+    "ScenarioID": 99,
+    "Title": "Design building components to be in manageable loads.",
+    "Details": "",
+    "Stage": "Preliminary Design",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 1320,
+    "ScenarioID": 99,
+    "Title": "Identify areas of suitable ground bearing capacity to utilise the crane and it's load.",
+    "Details": "",
+    "Stage": "Preliminary Design",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 1321,
+    "ScenarioID": 99,
+    "Title": "Limit the number of lift areas.",
+    "Details": "",
+    "Stage": "Preliminary Design",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 1322,
+    "ScenarioID": 99,
+    "Title": "Sequencing of build to be considered to limit interface with public domain.",
+    "Details": "",
+    "Stage": "Preliminary Design",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 1323,
+    "ScenarioID": 99,
+    "Title": "give consideration to alternative use of other lifting methods such as mast climbers.",
+    "Details": "",
+    "Stage": "Preliminary Design",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 1324,
+    "ScenarioID": 99,
+    "Title": "Give consideration to protective measures where interface cannot be avoided.",
+    "Details": "",
+    "Stage": "Preliminary Design",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 1325,
+    "ScenarioID": 99,
+    "Title": "Anticipated loads to be communicated on specifications and drawings.",
+    "Details": "",
+    "Stage": "Preliminary Design",
+    "Type": "Inform"
+  },
+  {
+    "Id": 1326,
+    "ScenarioID": 99,
+    "Title": "Information for the topographical survey of the site to be provided.",
+    "Details": "",
+    "Stage": "Preliminary Design",
+    "Type": "Inform"
+  },
+  {
+    "Id": 1327,
+    "ScenarioID": 99,
+    "Title": "Early identification of any wayleaves on site",
+    "Details": "",
+    "Stage": "Preliminary Design",
+    "Type": "Inform"
+  },
+  {
+    "Id": 1328,
+    "ScenarioID": 99,
+    "Title": "Coordination with construction strategy/ phasing",
+    "Details": "",
+    "Stage": "Detail Design",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 1329,
+    "ScenarioID": 99,
+    "Title": "Limit component sizes in design where possible.",
+    "Details": "",
+    "Stage": "Detail Design",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 1330,
+    "ScenarioID": 99,
+    "Title": "Ensure stable ground for lifting",
+    "Details": "",
+    "Stage": "Detail Design",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 1331,
+    "ScenarioID": 99,
+    "Title": "Confirm design requirements for protective measures, protective fans etc",
+    "Details": "",
+    "Stage": "Detail Design",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 1332,
+    "ScenarioID": 99,
+    "Title": "Design in lifting eyes to simplify lifting.",
+    "Details": "",
+    "Stage": "Detail Design",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 1333,
+    "ScenarioID": 99,
+    "Title": "Consider the use of stillages/ cradles.",
+    "Details": "",
+    "Stage": "Detail Design",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 1334,
+    "ScenarioID": 99,
+    "Title": "Local authority design requirements for protection measures to be adopted (e.g lighting / blind boards)",
+    "Details": "",
+    "Stage": "Detail Design",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 1335,
+    "ScenarioID": 99,
+    "Title": "Confirmed lifting loads communicated on specifications and drawings.",
+    "Details": "",
+    "Stage": "Detail Design",
+    "Type": "Inform"
+  },
+  {
+    "Id": 1336,
+    "ScenarioID": 99,
+    "Title": "Unusual lifting requirements highlighted and communicated",
+    "Details": "",
+    "Stage": "Detail Design",
+    "Type": "Inform"
+  },
+  {
+    "Id": 1337,
+    "ScenarioID": 99,
+    "Title": "Logistics plan to be fully designed and coordinated.",
+    "Details": "",
+    "Stage": "Pre construction",
+    "Type": "Reduce"
+  },
+  {
+    "Id": 1338,
+    "ScenarioID": 99,
+    "Title": "Lift plan, including emergency plan to be fully designed and coordinated.",
+    "Details": "",
+    "Stage": "Pre construction",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 1339,
+    "ScenarioID": 99,
+    "Title": "Out of hour working to limit impact",
+    "Details": "",
+    "Stage": "Pre construction",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 1340,
+    "ScenarioID": 99,
+    "Title": "Confirm lifting requirements, dimension and maximum load.",
+    "Details": "",
+    "Stage": "Pre construction",
+    "Type": "Inform"
+  },
+  {
+    "Id": 1341,
+    "ScenarioID": 99,
+    "Title": "Exclusion zones for lifting areas to be specified and communicated.",
+    "Details": "",
+    "Stage": "Pre construction",
+    "Type": "Inform"
+  },
+  {
+    "Id": 1342,
+    "ScenarioID": 99,
+    "Title": "Check licences required from local authority",
+    "Details": "",
+    "Stage": "Pre construction",
+    "Type": "Inform"
+  },
+  {
+    "Id": 1343,
+    "ScenarioID": 99,
+    "Title": "Check crane statutory certification for lifting equipment and accessories.",
+    "Details": "",
+    "Stage": "Site work, Temp Works, Change control",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 1344,
+    "ScenarioID": 99,
+    "Title": "Permit to lift to be in operation.",
+    "Details": "",
+    "Stage": "Site work, Temp Works, Change control",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 1345,
+    "ScenarioID": 99,
+    "Title": "Pre-test of crane, alarms and safety systems to be implemented and recorded.",
+    "Details": "",
+    "Stage": "Site work, Temp Works, Change control",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 1346,
+    "ScenarioID": 99,
+    "Title": "Competent operatives only using the equipment.",
+    "Details": "",
+    "Stage": "Site work, Temp Works, Change control",
+    "Type": "Control by subsequent design"
+  },
+  {
+    "Id": 1347,
+    "ScenarioID": 99,
+    "Title": "Components with unknown dimensions, weights or centres of gravity to be assessed.",
+    "Details": "",
+    "Stage": "Site work, Temp Works, Change control",
+    "Type": "Inform"
+  }
+]
